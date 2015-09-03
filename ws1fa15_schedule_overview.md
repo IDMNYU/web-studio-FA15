@@ -27,7 +27,7 @@
         <td valign="top">Sept 8<br><a href="weekly_detail/ws1fa15_weekly_detail_wk2_sept8.md">Discuss Homework<br>Designing For the Web<br>Final Project Ideas</a></td>
         <td valign="top">Sept 10<br>TBD<a href="weekly_detail/ws1fa15_weekly_detail_wk2_sept8.md"></a></td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td valign="top">3</td>
         <td valign="top">Sept 15<br>TBD<a href="weekly_detail/ws1fa15_weekly_detail_wk3_sept15.md"></a></td>
         <td valign="top">Sept 17<br>TBD<a href="weekly_detail/ws1fa15_weekly_detail_wk3_sept15.md"></a></td>
@@ -85,16 +85,16 @@
     <tr>
         <td valign="top">14</td>
         <td valign="top">Dec 1<br>TBD<a href="weekly_detail/ws1fa15_weekly_detail_wk14_dec1.md"></a></td>
-        <td valign="top">Dec 3<br><a href="weekly_detail/ws1fa15_weekly_detail_wk14_dec1.md"></a></td>
+        <td valign="top">Dec 3<br>TBD<a href="weekly_detail/ws1fa15_weekly_detail_wk14_dec1.md"></a></td>
     </tr>
     <tr>
         <td valign="top">15</td>
-        <td valign="top">Dec 8<br><a href="weekly_detail/ws1fa15_weekly_detail_wk15_dec8.md"></a></td>
-        <td valign="top">Dec 10<br><a href="weekly_detail/ws1fa15_weekly_detail_wk15_dec8.md"></a></td>
+        <td valign="top">Dec 8<br>TBD<a href="weekly_detail/ws1fa15_weekly_detail_wk15_dec8.md"></a></td>
+        <td valign="top">Dec 10<br>TBD<a href="weekly_detail/ws1fa15_weekly_detail_wk15_dec8.md"></a></td>
     </tr>
     <tr>
         <td valign="top">16</td>
-        <td valign="top">Dec 15<br><a href="weekly_detail/ws1fa15_weekly_detail_wk16_dec15.md"></a></td>
-        <td valign="top">nbsp;</td>
-    </tr>
+        <td valign="top">Dec 15<br>TBD<a href="weekly_detail/ws1fa15_weekly_detail_wk16_dec15.md"></a></td>
+        <td valign="top"></td>
+    </tr> -->
 </table>
