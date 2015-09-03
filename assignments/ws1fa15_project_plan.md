@@ -11,7 +11,7 @@
 
 Refer to http://www.webmonkey.com/2010/02/information_architecture_tutorial for more detailed information. Should be 1 or 2 pages maximum. Be clear, concise, and to the point.
 
-**Email to me teaching@chootka.com** Name file: yourname_project_plan.pdf
+**Email your plan to me teaching@chootka.com** Name file: yourname_project_plan.pdf
 <table>
     <tr>
         <td>Title</td>
