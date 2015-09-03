@@ -135,8 +135,8 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 * 20% Participation in the **mandatory** class critique
 * 20% Interaction Design
-* 20% Visual Design
-* 20% Quality of code
+* 30% Visual Design
+* 30% Quality of code
 
 ##### Qualitative Grading Overview
 
