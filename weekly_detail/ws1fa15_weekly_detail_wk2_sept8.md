@@ -29,7 +29,14 @@
                 <li>Go over HTML + CSS basics</li>
             </ul>
         </td>
-        <td valign="top">TBD</td>
+        <td valign="top">
+            <ul>
+                <li>Discuss readings, videos, and Project Plan</li>
+                <li>Continue CSS basics</li>
+                <li>Discuss the basics of how to publish your site: Domain names, hosting, FTP, what is a web server, Github</li>
+                <li>Discussion of how the web works: Basic concepts to understand what’s happening under the hood of the browser.</li>
+            </ul>
+        </td>
 </tr>
 <tr>
         <td valign="top">do</td>
