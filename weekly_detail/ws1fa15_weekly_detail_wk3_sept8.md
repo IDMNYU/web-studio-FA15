@@ -26,18 +26,36 @@
         <td valign="top">
             <ul>
                 <li><a href="weekly_detail/ws1fa15_weekly_detail_wk2_sept8.md">Discuss Homework</a></li>
-                <li>Discuss <a href="../resources/ws1fa15_ux_resources.md">Flat Design</a></li>
-                <li>Discuss <a href="../resources/ws1fa15_ux_resources.md">Image formats for the Web</a></li>
-                <li>Discuss web color space (CMYK vs. RGB)</li>
-                <li>Discuss resolution for the web (72dpi vs. 150dpi vs. 300dpi)</li>
-                <li>Discuss Project Ideas</li>
+                <li>Go over HTML + CSS basics</li>
             </ul>
         </td>
         <td valign="top">TBD</td>
 </tr>
 <tr>
         <td valign="top">do</td>
-        <td valign="top"></td>
+        <td valign="top">
+            <ul>
+                <li><strong>Read</strong></li>
+                <li>https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction</li>
+                <li>https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics</li>
+
+                <li><strong>Watch</strong></li>
+                <li>https://tutsplus.com/</li>
+                <li>u: teaching@chootka.com</li>
+                <li>p: <strong>Email me for the password: <a href="mailto:teaching@chootka.com">teaching@chootka.com</a></strong></li>
+
+                <li><strong>Command Line</strong></li>
+                <li>https://webdesign.tutsplus.com/articles/the-command-line-for-web-design-introduction--cms-23493</li>
+                <li>https://webdesign.tutsplus.com/tutorials/the-command-line-for-web-design-grasping-the-basics--cms-23318</li>
+                <li>https://webdesign.tutsplus.com/tutorials/the-command-line-for-web-design-taming-3rd-party-packages--cms-23451</li>
+
+                <li><strong>Git</strong></li>
+                <li>https://code.tutsplus.com/courses/introduction-to-git-and-github/lessons/introduction</li>
+                <li>https://code.tutsplus.com/courses/introduction-to-git-and-github/lessons/installing-and-configuring-git</li>
+                <li>https://code.tutsplus.com/courses/introduction-to-git-and-github/lessons/git-concepts</li>
+                <li>https://code.tutsplus.com/courses/introduction-to-git-and-github/lessons/initializing-a-repository</li>
+            </ul>
+        </td>
         <td valign="top">
             <ul>
                 <li>Be prepared to discuss your website project idea</li>
