@@ -77,11 +77,6 @@
                 <li>https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics</li>
             </ul>
             <strong>Watch</strong>
-            <ul>
-                <li>https://tutsplus.com/</li>
-                <li>u: teaching@chootka.com</li>
-                <li>p: <strong>Email me for the password: <a href="mailto:teaching@chootka.com">teaching@chootka.com</a></strong> if you don't already have it.</li>
-            </ul>
             <strong>Git Basics Continued</strong>
             <ul>
                 <li>https://code.tutsplus.com/courses/introduction-to-git-and-github/lessons/the-staging-area-and-status-command</li>
