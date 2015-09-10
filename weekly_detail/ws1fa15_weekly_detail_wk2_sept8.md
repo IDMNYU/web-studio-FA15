@@ -31,10 +31,12 @@
         </td>
         <td valign="top">
             <ul>
+                <li>Codepen from last class: <a href="http://codepen.io/anon/pen/bVdxBv" target="_blank">http://codepen.io/anon/pen/bVdxBv</a></li>
                 <li>Discuss readings, videos, and Project Plan</li>
-                <li>Continue CSS basics</li>
+                <li>Continue HTML + CSS basics</li>
                 <li>Discuss the basics of how to publish your site: Domain names, hosting, FTP, what is a web server, Github</li>
                 <li>Discussion of how the web works: Basic concepts to understand what’s happening under the hood of the browser.</li>
+                <li>Begin Javascript basics.</li>
             </ul>
         </td>
 </tr>
@@ -44,6 +46,7 @@
             <strong>Read</strong>
             <ul>
                 <li>https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction</li>
+                <li>https://developer.mozilla.org/en-US/docs/Web/HTML/Element</li>
                 <li>https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics</li>
             </ul>
             <strong>Watch</strong>
@@ -67,8 +70,40 @@
             </ul>
         </td>
         <td valign="top">
+
+            <strong>Read</strong>
+            <ul>
+                <li>http://learnlayout.com/</li>
+                <li>https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics</li>
+            </ul>
+            <strong>Watch</strong>
+            <ul>
+                <li>https://tutsplus.com/</li>
+                <li>u: teaching@chootka.com</li>
+                <li>p: <strong>Email me for the password: <a href="mailto:teaching@chootka.com">teaching@chootka.com</a></strong> if you don't already have it.</li>
+            </ul>
+            <strong>Git Basics Continued</strong>
+            <ul>
+                <li>https://code.tutsplus.com/courses/introduction-to-git-and-github/lessons/the-staging-area-and-status-command</li>
+                <li>https://code.tutsplus.com/courses/introduction-to-git-and-github/lessons/making-commits</li>
+                <li>https://code.tutsplus.com/courses/introduction-to-git-and-github/lessons/ignoring-files</li>
+                <li>https://code.tutsplus.com/courses/introduction-to-git-and-github/lessons/viewing-the-log</li>
+            </ul>
+            <strong>Github Basics</strong>
+            <ul>
+                <li>https://code.tutsplus.com/courses/introduction-to-git-and-github/lessons/setting-up-github</li>
+                <li>https://code.tutsplus.com/courses/introduction-to-git-and-github/lessons/working-with-remotes</li>
+                <li>https://code.tutsplus.com/courses/introduction-to-git-and-github/lessons/creating-github-pages</li>
+            </ul>
+            <strong>Developer Tools: Inspecting the DOM + CSS styles</strong>
+            <ul>
+                <li>http://discover-devtools.codeschool.com/chapters/1?locale=en</li>
+                <li>http://discover-devtools.codeschool.com/levels/1/challenges/7?locale=en</li>
+            </ul>
             <ul>
                 <li>Work on your <a href="../assignments/ws1fa15_project_plan.md">Project Plan</a></li>
+                <li>Create a basic HTML page and a CSS file that is linked into your HTML page. Include at least 3 elements: heading, paragraph, list, images, links. Make use of a wide range of styles for different properites: fonts, margin, padding, colors, etc.</li>
+                <li>Email me your github + a link to your page.</li>
                 <!-- <li><a href="../assignments/ws1fa15_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
                 <ul>
                     <li>HTML/CSS</li>
