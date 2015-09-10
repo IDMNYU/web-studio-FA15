@@ -3,7 +3,7 @@
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department
 
-    Sarah Grant • Fall 2015 • Tuesdays & Thursdays • 6:30-8:20PM • Room: 2MTC MAGNET 803 • 3 credit hrs
+    Sarah Grant • Fall 2015 • Tuesdays • 6:30-8:20PM • Room: 2MTC MAGNET 811 • Thursdays • 6:30-8:20PM • Room: 2MTC MAGNET 803 • 3 credit hrs
 
 ---
 
