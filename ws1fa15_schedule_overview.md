@@ -20,7 +20,7 @@
     <tr>
         <td valign="top">1</td>
         <td valign="top">Sept 1 *no class*<br></td>
-        <td valign="top">Sept 3 Overview of Course<br><a href="weekly_detail/ws1fa15_weekly_detail_wk1_sept3.md">Class Introductions<br>Knowledge survey<br>Overview of Syllabus<br>Development Tools<br>Getting Started With the Web</a></td>
+        <td valign="top">Sept 3<br><a href="weekly_detail/ws1fa15_weekly_detail_wk1_sept3.md">Class Introductions<br>Knowledge survey<br>Overview of Syllabus<br>Development Tools<br>Getting Started With the Web</a></td>
     </tr>
     <tr>
         <td valign="top">2</td>

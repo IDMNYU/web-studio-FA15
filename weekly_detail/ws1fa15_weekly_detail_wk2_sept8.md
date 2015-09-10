@@ -27,11 +27,11 @@
             <ul>
                 <li><a href="weekly_detail/ws1fa15_weekly_detail_wk2_sept8.md">Discuss Homework</a></li>
                 <li>Go over HTML + CSS basics</li>
+                <li>Codepen for HTML + CSS: <a href="http://codepen.io/anon/pen/bVdxBv" target="_blank">http://codepen.io/anon/pen/bVdxBv</a></li>
             </ul>
         </td>
         <td valign="top">
             <ul>
-                <li>Codepen from last class: <a href="http://codepen.io/anon/pen/bVdxBv" target="_blank">http://codepen.io/anon/pen/bVdxBv</a></li>
                 <li>Discuss readings, videos, and Project Plan</li>
                 <li>Continue HTML + CSS basics</li>
                 <li>Begin Javascript basics.</li>
