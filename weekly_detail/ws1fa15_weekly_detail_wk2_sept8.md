@@ -34,9 +34,9 @@
                 <li>Codepen from last class: <a href="http://codepen.io/anon/pen/bVdxBv" target="_blank">http://codepen.io/anon/pen/bVdxBv</a></li>
                 <li>Discuss readings, videos, and Project Plan</li>
                 <li>Continue HTML + CSS basics</li>
+                <li>Begin Javascript basics.</li>
                 <li>Discuss the basics of how to publish your site: Domain names, hosting, FTP, what is a web server, Github</li>
                 <li>Discussion of how the web works: Basic concepts to understand what’s happening under the hood of the browser.</li>
-                <li>Begin Javascript basics.</li>
             </ul>
         </td>
 </tr>
