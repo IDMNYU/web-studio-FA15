@@ -24,8 +24,8 @@
     </tr>
     <tr>
         <td valign="top">2</td>
-        <td valign="top">Sept 8<br><a href="weekly_detail/ws1fa15_weekly_detail_wk2_sept8.md">Discuss Homework<br>Designing For the Web<br>Final Project Ideas</a></td>
-        <td valign="top">Sept 10<br>TBD<a href="weekly_detail/ws1fa15_weekly_detail_wk2_sept8.md"></a></td>
+        <td valign="top">Sept 8<br><a href="weekly_detail/ws1fa15_weekly_detail_wk2_sept8.md">Discuss Homework<br>HTML+CSS Basics</a></td>
+        <td valign="top">Sept 10<br>CSS Basics Continued<br/>How the Web Works<br/>Final Project Planning<a href="weekly_detail/ws1fa15_weekly_detail_wk2_sept8.md"></a></td>
     </tr>
     <!-- <tr>
         <td valign="top">3</td>
