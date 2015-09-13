@@ -95,18 +95,17 @@
                 <li>http://discover-devtools.codeschool.com/chapters/1?locale=en</li>
                 <li>http://discover-devtools.codeschool.com/levels/1/challenges/7?locale=en</li>
             </ul>
+            <strong>Assignments that are due Tuesday 9/15</strong>
             <ul>
-                <li>Work on your <a href="../assignments/ws1fa15_project_plan.md">Project Plan</a>. 
-                    <br/>
-                    <b>To complete:</b>
+                <li><b>Work on your <a href="../assignments/ws1fa15_project_plan.md">Project Plan</a></b>.    <br/>
+                    To complete:
                     <ul>
                         <li>Title</li>
                         <li>Project Statement / Goal</li>
                         <li>Your motivation, drive, and/or purpose</li>
                         <li>Target Audience</li> 
                     </ul>
-                    <br/>
-                    <b>Here are some thoughtstarters:</b>
+                    Here are some thoughtstarters:
                     <ul>
                         <li>A portfolio site</li>
                         <li>A site about your favorite sports team</li>
@@ -118,9 +117,9 @@
                 </li>
             </ul>
             <ul>
-                <li>Create a basic HTML page and a CSS file that is linked into your HTML page.
+                <li><b>Create a basic HTML page and a CSS file that is linked into your HTML page.</b>
                 <br/>
-                <b>Include at least 3 HTML elements</b> 
+                Include at least 3 HTML elements
                 <ul>
                     <li>heading (h1, h2, h3, h4, h5)</li>
                     <li>paragraph (p)</li>
@@ -128,8 +127,7 @@
                     <li>images (img)</li>
                     <li>links (a)</li>
                 </ul>
-                <br/>
-                <b>Make use of a wide range of styles for different properites!</b>
+                Make use of a wide range of styles for different properites!
                 <ul>
                     <li>fonts (font-size, font-family, line-height, color, etc)</li>
                     <li>margin, padding</li>
