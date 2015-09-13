@@ -97,15 +97,17 @@
             </ul>
             <ul>
                 <li>Work on your <a href="../assignments/ws1fa15_project_plan.md">Project Plan</a>. 
+                    <br/>
+                    <b>To complete:</b>
                     <ul>
-                        To complete:
                         <li>Title</li>
                         <li>Project Statement / Goal</li>
                         <li>Your motivation, drive, and/or purpose</li>
                         <li>Target Audience</li> 
                     </ul>
+                    <br/>
+                    <b>Here are some thoughtstarters:</b>
                     <ul>
-                        Here are some thoughtstarters:
                         <li>A portfolio site</li>
                         <li>A site about your favorite sports team</li>
                         <li>... your friend's band</li>
