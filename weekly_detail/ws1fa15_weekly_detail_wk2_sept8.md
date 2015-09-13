@@ -116,6 +116,8 @@
                         <li>... maybe a web comic!</li>
                     </ul>
                 </li>
+            </ul>
+            <ul>
                 <li>Create a basic HTML page and a CSS file that is linked into your HTML page. Include at least 3 elements: heading, paragraph, list, images, links. Make use of a wide range of styles for different properites: fonts, margin, padding, colors, etc.</li>
                 <li>Email me your github + a link to your page.</li>
                 <!-- <li><a href="../assignments/ws1fa15_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
