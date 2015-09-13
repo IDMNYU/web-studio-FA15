@@ -96,7 +96,7 @@
                 <li>http://discover-devtools.codeschool.com/levels/1/challenges/7?locale=en</li>
             </ul>
             <ul>
-                <li>Work on your <a href="../assignments/ws1fa15_project_plan.md">Project Plan</a></li>
+                <li>Work on your <a href="../assignments/ws1fa15_project_plan.md">Project Plan</a>. Complete the Title, Project Statement / Goal, Your motivation, drive, and/or purpose, and Target Audience sections. Here are some thoughtstarters: A portfolio site, or a site about your favorite sports team, your friend's band, a social cause, redesign a non-profit's website, or maybe a web comic! You could also see if your friends need a website made.</li>
                 <li>Create a basic HTML page and a CSS file that is linked into your HTML page. Include at least 3 elements: heading, paragraph, list, images, links. Make use of a wide range of styles for different properites: fonts, margin, padding, colors, etc.</li>
                 <li>Email me your github + a link to your page.</li>
                 <!-- <li><a href="../assignments/ws1fa15_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
