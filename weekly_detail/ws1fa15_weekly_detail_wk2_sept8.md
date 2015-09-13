@@ -118,8 +118,26 @@
                 </li>
             </ul>
             <ul>
-                <li>Create a basic HTML page and a CSS file that is linked into your HTML page. Include at least 3 elements: heading, paragraph, list, images, links. Make use of a wide range of styles for different properites: fonts, margin, padding, colors, etc.</li>
-                <li>Email me your github + a link to your page.</li>
+                <li>Create a basic HTML page and a CSS file that is linked into your HTML page.
+                <br/>
+                <b>Include at least 3 HTML elements</b> 
+                <ul>
+                    <li>heading (h1, h2, h3, h4, h5)</li>
+                    <li>paragraph (p)</li>
+                    <li>lists (ul, ol)</li>
+                    <li>images (img)</li>
+                    <li>links (a)</li>
+                </ul>
+                <br/>
+                <b>Make use of a wide range of styles for different properites!</b>
+                <ul>
+                    <li>fonts (font-size, font-family, line-height, color, etc)</li>
+                    <li>margin, padding</li>
+                    <li>background colors</li>
+                    <li>etc...... </li>
+                </ul>
+                <br/>
+                <b>Email me your github + a link to your page.</b>
                 <!-- <li><a href="../assignments/ws1fa15_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
                 <ul>
                     <li>HTML/CSS</li>
