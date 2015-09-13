@@ -1,0 +1,35 @@
+body {
+  background-color: #66ABDC;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+a {
+  font-size: 11px;
+  text-decoration: none;
+}
+a[href="bio.html"] {
+  color: #ff0000;
+}
+a:hover {
+  text-decoration: underline;
+}
+.half-page {
+  width: 70%;
+}
+/*div:hover {
+  font-size: 72px;
+}*/
+.raleway {
+  font-family: 'Raleway', sans-serif;
+}
+
+.opensans {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.headline {
+  font-size: 60px;
+  color: #00ff00;
+  text-align: center;
+  line-height: 40px;
+  letter-spacing: 1px;
+}
