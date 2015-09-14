@@ -12,8 +12,8 @@
 <table>
 <tr>
 <td>wk</td>
-<td>Tuesdays (due on date listed)</td>
-<td>Thursdays (due on date listed)</td>
+<td>Tuesdays</td>
+<td>Thursdays</td>
 </tr>
 <!-- first week -->
 <tr>
