@@ -43,17 +43,18 @@
 <tr>
         <td valign="top">do</td>
         <td valign="top">
+            <strong>Read</strong>
             <ul>
-                <li><strong>Read</strong></li>
                 <li><a href="https://smacss.com/book/" target="_blank">https://smacss.com/book/</a>, ch 1-5</li>
                 <li><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/JavaScript" target="_blank">CSS and DOM with Javascript</a></li>
-
-                <li><strong>Watch</strong></li>
-                <li><strong>CSS</strong></li>
+            </ul>
+            <strong>Watch</strong>
+            <ul>
+                <strong>CSS</strong>
                 <li>https://webdesign.tutsplus.com/courses/introduction-to-smacss</li>
                 <li>https://webdesign.tutsplus.com/courses/exploring-css-pseudo-elements</li>
                 <li>https://webdesign.tutsplus.com/courses/understanding-the-css-box-model</li>
-                <li><strong>Web Concepts</strong></li>
+                <strong>Web Concepts</strong>
                 <li>https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/Publishing_your_website</li>
                 <li>https://developer.mozilla.org/en-US/Learn/What_is_a_web_server</li>
             </ul>
