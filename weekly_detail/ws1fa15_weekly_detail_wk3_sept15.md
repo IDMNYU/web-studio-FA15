@@ -31,11 +31,12 @@
         <td valign="top">
             <ul>
                 <li>Discuss Project Plans</li>
-                <li>CSS basics wrap-up: box model, positioning + forms</li>
+                <li>Using ssh keys with Github</li>
                 <li>HTML basics wrap-up and HTML5 Intro: forms, media</li>
+                <li>SMACCS style of writing CSS</li>
+                <li>CSS basics wrap-up: box model, positioning + forms</li>
                 <li>Discuss the basics of how to publish your site: Domain names, hosting, FTP, what is a web server, Github</li>
                 <li>Discussion of how the web works: Basic concepts to understand what’s happening under the hood of the browser.</li>
-                <li>Using ssh keys with Github</li>
             </ul>
         </td>
 </tr>
@@ -61,7 +62,7 @@
         <td valign="top">
             <strong>Homework due Tuesday 9/22</strong>
             <ul>
-                <li>Create an HTML page using CSS positioning as covered in class.</li>
+                <li>Create an HTML page using CSS positioning as covered in class, using SMACCS style of organizing your CSS.</li>
             </ul>
             <strong>Read</strong>
             <ul>
