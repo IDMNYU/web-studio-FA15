@@ -25,18 +25,17 @@
         <td valign="top">class</td>
         <td valign="top">
             <ul>
-                <li>Discuss Project Plans</li>
                 <li>Github + Command Line Demo</li>
-                <li>CSS basics wrap-up</li>
-                <li>HTML basics wrap-up and HTML5 Intro</li>
             </ul>
         </td>
         <td valign="top">
             <ul>
-                <li>HTML5 continued - Forms + Canvas Element</li>
-                <li>CSS continued - Forms + Canvas Element</li>
+                <li>Discuss Project Plans</li>
+                <li>CSS basics wrap-up: box model, positioning + forms</li>
+                <li>HTML basics wrap-up and HTML5 Intro: forms, media</li>
                 <li>Discuss the basics of how to publish your site: Domain names, hosting, FTP, what is a web server, Github</li>
                 <li>Discussion of how the web works: Basic concepts to understand what’s happening under the hood of the browser.</li>
+                <li>Using ssh keys with Github</li>
             </ul>
         </td>
 </tr>
@@ -60,6 +59,10 @@
             </ul>
         </td>
         <td valign="top">
+            <strong>Homework due Tuesday 9/22</strong>
+            <ul>
+                <li>Create an HTML page using CSS positioning as covered in class.</li>
+            </ul>
             <strong>Read</strong>
             <ul>
                 <li><a href="https://smacss.com/book/" target="_blank">https://smacss.com/book/</a>, ch 6-9</li>
