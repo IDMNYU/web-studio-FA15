@@ -26,15 +26,16 @@
         <td valign="top">
             <ul>
                 <li>Github + Command Line Demo</li>
+                <li>Review HTML Homework</li>
             </ul>
         </td>
         <td valign="top">
             <ul>
                 <li>Discuss Project Plans</li>
                 <li>Using ssh keys with Github</li>
-                <li>HTML basics wrap-up and HTML5 Intro: forms, media</li>
+                <li>CSS basics wrap-up: box model and positioning</li>
                 <li>SMACCS style of writing CSS</li>
-                <li>CSS basics wrap-up: box model, positioning + forms</li>
+                <li>HTML5 Intro: audio/video</li>
                 <li>Discuss the basics of how to publish your site: Domain names, hosting, FTP, what is a web server, Github</li>
                 <li>Discussion of how the web works: Basic concepts to understand what’s happening under the hood of the browser.</li>
             </ul>
@@ -63,10 +64,13 @@
             <strong>Homework due Tuesday 9/22</strong>
             <ul>
                 <li>Create an HTML page using CSS positioning as covered in class, using SMACCS style of organizing your CSS.</li>
+                <li>Finish Project Plans.</li>
             </ul>
             <strong>Read</strong>
             <ul>
                 <li><a href="https://smacss.com/book/" target="_blank">https://smacss.com/book/</a>, ch 6-9</li>
+                <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction" target="_blank">Intro to DOM</a></li>
+                <li><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/JavaScript" target="_blank">JS + CSS</a></li>
                 <li><a href="https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank">Javascript Basics</a></li>
             </ul>
             <strong>Watch</strong>

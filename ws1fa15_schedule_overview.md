@@ -29,12 +29,12 @@
     </tr>
     <tr>
         <td valign="top">3</td>
-        <td valign="top">Sept 15<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk3_sept15.md">CSS Basics continued<br/>Github + Command Line Demo<br/>HTML basics wrap-up and intro to HTML5</a></td>
-        <td valign="top">Sept 17<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk3_sept15.md">CSS + HTML5 wrap-up: Forms + Canvas elements</a></td>
+        <td valign="top">Sept 15<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk3_sept15.md">Review HTML Homework<br/>Github + Command Line Demo</a></td>
+        <td valign="top">Sept 17<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk3_sept15.md">Discuss Project Plans<br/>CSS Basics continued<br/>Intro to HTML5</a></td>
     </tr>
     <tr>
         <td valign="top">4</td>
-        <td valign="top">Sept 22<br/>Javascript Basics<a href="weekly_detail/ws1fa15_weekly_detail_wk4_sept22.md"></a></td>
+        <td valign="top">Sept 22<br/>Review HTML Homework + Project Plans<br/>Intro to the DOM<br/>Javascript Basics<a href="weekly_detail/ws1fa15_weekly_detail_wk4_sept22.md"></a></td>
         <td valign="top">Sept 24<br/>Javascript Basics continued<a href="weekly_detail/ws1fa15_weekly_detail_wk4_sept22.md"></a></td>
     </tr>
     <tr>
@@ -69,7 +69,7 @@
     </tr>
     <tr>
         <td valign="top">11</td>
-        <td valign="top">Nov 10<br>CSS3 Transitions + Animations<a href="weekly_detail/ws1fa15_weekly_detail_wk11_nov10.md"></a></td>
+        <td valign="top">Nov 10<br>Return to HTML5: Forms + Canvas elements<br/>CSS3 Transitions + Animations<a href="weekly_detail/ws1fa15_weekly_detail_wk11_nov10.md"></a></td>
         <td valign="top">Nov 12 *Veteran's Day*</td>
     </tr>
     <tr>
