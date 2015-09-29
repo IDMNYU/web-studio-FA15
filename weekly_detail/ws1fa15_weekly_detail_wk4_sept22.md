@@ -96,8 +96,8 @@
                 </li>
                 <li>HTML
                     <ul>
-                        <li><pre><audio src=“path_to_audio.mp3” controls>.replace(/&/g, '&amp;').replace(/</g, '&lt;')</pre></li>
-                        <li><pre><video src=“path_to_video.ogg” controls>.replace(/&/g, '&amp;').replace(/</g, '&lt;')</pre></li>
+                        <li><pre><![CDATA[<audio src=“path_to_audio.mp3” controls>]]></pre></li>
+                        <li><pre><![CDATA[<video src=“path_to_video.ogg” controls>]]></pre></li>
                     </ul>
                 </li>
             </ul>
