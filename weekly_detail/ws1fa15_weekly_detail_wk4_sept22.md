@@ -96,8 +96,8 @@
                 </li>
                 <li>HTML
                     <ul>
-                        <li><audio src=“path_to_audio.mp3” controls></li>
-                        <li><video src=“path_to_video.ogg” controls></li>
+                        <li><pre><audio src=“path_to_audio.mp3” controls></pre></li>
+                        <li><pre><video src=“path_to_video.ogg” controls></pre></li>
                     </ul>
                 </li>
             </ul>
