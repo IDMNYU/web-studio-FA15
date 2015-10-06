@@ -44,8 +44,8 @@
     </tr>
     <tr>
         <td valign="top">6</td>
-        <td valign="top">Oct 6<br/>Intro to Visual Design:<br/>UX Basics<br/>Wireframing<a href="weekly_detail/ws1fa15_weekly_detail_wk6_oct6.md"></a></td>
-        <td valign="top">Oct 8<br/>UX Basics continued<br/>User Stories<br/>Layout<a href="weekly_detail/ws1fa15_weekly_detail_wk6_oct6.md"></a></td>
+        <td valign="top">Oct 6<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk6_oct6.md">UX Basics<br/>Wireframing</a></td>
+        <td valign="top">Oct 8<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk6_oct6.md">UX Basics continued<br/>User Stories<br/>Layout</a></td>
     </tr>
     <!-- <tr>
         <td valign="top">6</td>
