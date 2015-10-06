@@ -34,19 +34,24 @@
     </tr>
     <tr>
         <td valign="top">4</td>
-        <td valign="top">Sept 22<br/>Review HTML Homework + Project Plans<br/>Intro to the DOM<br/>Javascript Basics<a href="weekly_detail/ws1fa15_weekly_detail_wk4_sept22.md"></a></td>
-        <td valign="top">Sept 24<br/>Javascript Basics continued<a href="weekly_detail/ws1fa15_weekly_detail_wk4_sept22.md"></a></td>
+        <td valign="top">Sept 22<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk4_sept22.md">Review HTML Homework + Project Plans<br/>Intro to the DOM<br/>Javascript Basics</a></td>
+        <td valign="top">Sept 24<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk4_sept22.md">Javascript Basics continued</a></td>
     </tr>
     <tr>
         <td valign="top">5</td>
-        <td valign="top">Sept 29<br/>UX Basics<br/>Wireframing<a href="weekly_detail/ws1fa15_weekly_detail_wk5_sept29.md"></a></td>
-        <td valign="top">Oct 1<br/>UX Basics continued<br/>User Stories<a href="weekly_detail/ws1fa15_weekly_detail_wk5_sept29.md"></a></td>
+        <td valign="top">Sept 29<br/>* No Class *</td>
+        <td valign="top">Oct 1<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk5_sept29.md">Javascript Basics continued</a></td>
     </tr>
     <tr>
         <td valign="top">6</td>
+        <td valign="top">Oct 6<br/>Intro to Visual Design:<br/>UX Basics<br/>Wireframing<a href="weekly_detail/ws1fa15_weekly_detail_wk6_oct6.md"></a></td>
+        <td valign="top">Oct 8<br/>UX Basics continued<br/>User Stories<br/>Layout<a href="weekly_detail/ws1fa15_weekly_detail_wk6_oct6.md"></a></td>
+    </tr>
+    <!-- <tr>
+        <td valign="top">6</td>
         <td valign="top">Oct 6<br/>Intro to Visual Design:<br/>Color Theory<br/>Typography<br/>Layout<a href="weekly_detail/ws1fa15_weekly_detail_wk6_oct6.md"></a></td>
         <td valign="top">Oct 8<br/>Intro to Visual Design Continued:<br/>Color Theory<br/>Typography<br/>Layout<a href="weekly_detail/ws1fa15_weekly_detail_wk6_oct6.md"></a></td>
-    </tr>
+    </tr> -->
     <tr>
         <td valign="top">7</td>
         <td valign="top">Oct 13<br/>Responsive Design<br/>Determining Breakpoints<a href="weekly_detail/ws1fa15_weekly_detail_wk7_oct13.md"></a></td>

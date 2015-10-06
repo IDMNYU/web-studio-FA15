@@ -1,0 +1,17 @@
+#square {
+
+      width: 120px;
+
+      height: 120px;
+
+      border: 2px inset gray;
+
+      margin-bottom: 1em;
+
+  }
+
+  button {
+
+      padding: .5em 2em;
+
+  }

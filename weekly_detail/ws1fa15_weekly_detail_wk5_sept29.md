@@ -18,15 +18,13 @@
 <!-- first week -->
 <tr>
         <td valign="top" width="4%">1</td>
-        <td valign="top" width="48%"><strong>Sept 22</strong></td>
-        <td valign="top" width="48%"><strong>Sept 24</strong></td>
+        <td valign="top" width="48%"><strong>Sept 29</strong></td>
+        <td valign="top" width="48%"><strong>Oct 1</strong></td>
     </tr>
  <tr>
         <td valign="top">class</td>
         <td valign="top">
-            <ul>
-                <li>Begin Javascript basics</li>
-            </ul>
+            * No Class *
         </td>
         <td valign="top">Javascript basics continued</td>
 </tr>
