@@ -49,6 +49,7 @@
                 <li>Content Inventory</li>
                 <li>Technical Requirements / Functionality</li>
             </ul>
+            <p><strong>Also:</strong> Create user stories / personas for who you think your target audience is! Refer to the links above or look at the <a href="https://github.com/IDMNYU/web-studio-FA15/blob/master/class_exercises/intro_ux/ux.pdf" target="_blank">presentation from the class</a> if you need to remember what those look like.</p>
             <strong>Additional UX Resources</strong>
             <ul>
                 <li><a href="http://boxesandarrows.com/" target="_blank">Boxes and Arrows</a></li>
