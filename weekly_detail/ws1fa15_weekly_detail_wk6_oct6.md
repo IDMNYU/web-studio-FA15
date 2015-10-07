@@ -39,6 +39,8 @@
                 <li><a href="https://webdesign.tutsplus.com/articles/defining-and-applying-personas-to-ux-design--webdesign-7561" target="_blank">User Personas</a></li>
                 <li><a href="http://www.uxmatters.com/mt/archives/2015/10/getting-started-in-user-experience.php" target="_blank">Getting Started with UX</a></li>
                 <li><a href="https://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399" target="_blank">Beginners Guide to Wireframes</a></li>
+                <li><a href="http://wireframes.tumblr.com/" target="_blank">I <3 Wireframes</a></li>
+                <li><a href="http://www.wirify.com/" target="_blank">Wirify</a></li>
                 <li><a href="http://alistapart.com/article/paperprototyping" target="_blank">Paper Prototyping</a></li>
             </ul>
             <strong>Homework due Thursday 10/8</strong>
