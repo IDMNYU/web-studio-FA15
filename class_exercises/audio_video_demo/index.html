@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title> Web Dev Assignment 3 </title>
+		<link rel="stylesheet" type="text/css" href="styles/style.css" />
+	</head>
+	<body>
+		<!-- include different file formats to be cross-browser compatible
+			ogg/ogv: Firefox, Chrome, Opera
+			mp4: Firefox, Chrome, Opera, IE, Edge, Safari
+			webm: Firefox, Chrome, Opera
+
+			Example of nice looping background video without controls: https://www.airbnb.com/
+		 -->
+		<video autoplay loop id="background-video">
+		  	<source src="video/small.webm" type="video/webm" /> 
+		  	<source src="video/small.ogv" type="video/ogg" /> 
+		  	<source src="video/small.mp4" type="video/mp4" />
+			Your browser does not support the <code>video</code> element.
+		</video>
+		<!-- <iframe src="https://www.youtube.com/embed/cbP2N1BQdYc" frameborder="0" allowfullscreen></iframe-->
+		<header>
+			<h1>Javascript Demo</h1>
+			<h3>JS subheader</h3>
+		</header>
+		<section>
+			<!-- include different file formats to be cross-browser compatible
+				mp3: Firefox, Chrome, Opera, IE, Edge, Safari
+				aac: Firefox, Chrome, Opera, IE, Edge, Safari
+				wav: Firefox, Chrome, Opera, Safari
+			 -->
+			<audio controls autoplay preload="auto" loop>
+				<source src="audio/test.wav" type="audio/wav" />
+				<source src="audio/test.mp3" type="audio/mpeg" />
+			</audio>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non condimentum leo, eget imperdiet nisl. Vestibulum sollicitudin ante ac magna malesuada facilisis. Ut sed consequat mi. Ut laoreet tempor sem, quis semper dolor elementum eget. Pellentesque in consequat enim, in commodo tortor. Integer at ipsum suscipit, imperdiet quam sed, dapibus turpis. Duis placerat quis metus sed laoreet. Pellentesque commodo pulvinar ante nec vehicula. Vivamus nec cursus diam. Sed malesuada eu mauris a fringilla. Mauris et faucibus arcu. In consectetur eleifend condimentum. Nunc sodales augue neque, pharetra mattis ante iaculis quis. Aliquam consectetur convallis neque vel viverra. Nam non metus enim. Suspendisse ut convallis ante.</p>
+		</section>
+		<div id="showButton" class="button">Show Overlay</div>	
+		<button id="hideButton">Hide Overlay</button>
+		<div id="overlay">
+			<div class="overlay-child">
+				<h2>Some Overlay</h2>
+				<p>Mauris et faucibus arcu. In consectetur eleifend condimentum. Nunc sodales augue neque, pharetra mattis ante iaculis quis. Aliquam consectetur convallis neque vel viverra. Nam non metus enim. Suspendisse ut convallis ante.</p>
+			</div>
+		</div>
+					
+		<script src="scripts/main.js"></script>
+	</body>
+</html>

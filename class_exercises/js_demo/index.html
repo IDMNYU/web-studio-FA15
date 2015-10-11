@@ -3,60 +3,24 @@
 	<head>
 		<meta charset="UTF-8">
 		<title> Web Dev Assignment 3 </title>
-	<style>
-		.button {
-			background-color: #ff0000;
-			border: 2px solid #00ff00;
-			border-radius: 5px;
-			padding: 20px;
-			width: 100px;
-			cursor: pointer;
-		}
-		.button.hover {
-			background-color: #00ff00;
-		}
-		#overlay {
-			display: none;
-		    width: 500px;
-		    color: #005AFF;
-		    background-color: #E36BDA;
-		    border: 2px solid #000;
-		    border-radius: 64px;
-		    padding: 80px;
-		    position: fixed;
-		    left: 50%;
-		    margin-left: -250px;
-		}
-		#overlay.show {
-			display:block;
-		}
-		iframe {
-			width: 100%;
-			height: 100%;
-		    position: fixed;
-		    z-index: -1;
-		    top: 0;
-		    left: 0;
-		}
-    </style>
+		<link rel="stylesheet" type="text/css" href="styles/style.css" />
+	</head>
 	<body>
-		<video src="https://www.youtube.com/embed/cbP2N1BQdYc" autoplay="autoplay" loop>
-		  Your browser does not support the <code>video</code> element.
-		</video>
 		<!-- <iframe src="https://www.youtube.com/embed/cbP2N1BQdYc" frameborder="0" allowfullscreen></iframe-->
 		<header>
 			<h1>Javascript Demo</h1>
 			<h3>JS subheader</h3>
 		</header>
 		<section>
-			<audio src="http://www.stephaniequinn.com/Music/Allegro%20from%20Duet%20in%20C%20Major.mp3" controls autoplay preload="auto"></audio>
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non condimentum leo, eget imperdiet nisl. Vestibulum sollicitudin ante ac magna malesuada facilisis. Ut sed consequat mi. Ut laoreet tempor sem, quis semper dolor elementum eget. Pellentesque in consequat enim, in commodo tortor. Integer at ipsum suscipit, imperdiet quam sed, dapibus turpis. Duis placerat quis metus sed laoreet. Pellentesque commodo pulvinar ante nec vehicula. Vivamus nec cursus diam. Sed malesuada eu mauris a fringilla. Mauris et faucibus arcu. In consectetur eleifend condimentum. Nunc sodales augue neque, pharetra mattis ante iaculis quis. Aliquam consectetur convallis neque vel viverra. Nam non metus enim. Suspendisse ut convallis ante.</p>
 		</section>
-		<div id="buttonID" class="button">My Button</div>	
-		<button id="defaultButton">Another Button</button>
+		<div id="showButton" class="button">Show Overlay</div>	
+		<button id="hideButton">Hide Overlay</button>
 		<div id="overlay">
-			<h2>Some Overlay</h2>
-			<p>Mauris et faucibus arcu. In consectetur eleifend condimentum. Nunc sodales augue neque, pharetra mattis ante iaculis quis. Aliquam consectetur convallis neque vel viverra. Nam non metus enim. Suspendisse ut convallis ante.</p>
+			<div class="overlay-child">
+				<h2>Some Overlay</h2>
+				<p>Mauris et faucibus arcu. In consectetur eleifend condimentum. Nunc sodales augue neque, pharetra mattis ante iaculis quis. Aliquam consectetur convallis neque vel viverra. Nam non metus enim. Suspendisse ut convallis ante.</p>
+			</div>
 		</div>
 					
 		<script src="scripts/main.js"></script>
