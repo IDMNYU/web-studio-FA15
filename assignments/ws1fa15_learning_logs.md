@@ -16,10 +16,9 @@ Learning Logs for the following, but not limited to:
 <li>HTML/CSS</li>
 <li>HTML5/CSS3</li>
 <li>Javascript/JQuery</li>
-<li>The Reponsive Web (Media Queries)</li>
+<li>The Responsive Web (Media Queries)</li>
 <li>Frameworks (Bootstrap and Foundation)</li>
 <li>CSS Preprocessor: SASS</li>
-<li>CMS: Wordpress, Drupal, or Ruby on Rails</li>
 <li>Other Web Technologies (as applicable to your project)</li>
 </ul>
 
