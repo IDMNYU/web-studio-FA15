@@ -195,6 +195,70 @@ Students, in addition to their regular NYU allotment, also have available to the
   * IDM’s FTP server info: http://sites.bxmc.poly.edu (Use active mode to connect)
 
 
+### END OF SEMESTER PDF DELIVERABLE
+
+#### PDF Cover:
+* Your Last Name, Your First Name
+* Intro to Web Development | DM 2193
+* Course Semester: Fall 2014
+* Course Instructor: Johnny Benson
+
+#### PDF Contents:
+* Project plan with revisions
+* Final project documentation
+  * URL to example site with Theme
+  * URL to Github with Theme Code
+  * Screenshots for Desktop
+  * Screenshots for Mobile/Tablet
+  * Wireframes or Schematics
+  * Mural.ly, Mood Boards, and/or Comps Tech & Functionality Specifications Screenshots
+
+### [Additional Resources](./dm2193_resources.md)
+
+### COURSE WEEKS
+* [Week 1](./weekly_detail/ws1fa15_weekly_detail_wk1_sept3.md)
+  * Introduction to the Course
+* [Week 2](./weekly_detail/ws1fa15_weekly_detail_wk2_sept8.md)
+  * HTML + CSS Basics
+* [Week 3](./weekly_detail/ws1fa15_weekly_detail_wk3_sept15.md)
+  * Github + Command Line Demo
+  * CSS Basics Continued
+* [Week 4](./weekly_detail/ws1fa15_weekly_detail_wk4_sept22.md)
+  * Intro to the DOM
+  * Javascript Basics
+* [Week 5](./weekly_detail/ws1fa15_weekly_detail_wk5_sept29.md)
+  * Javascript Basics Continued
+* [Week 6](./weekly_detail/ws1fa15_weekly_detail_wk6_oct6.md)
+  * UX Basics
+  * Wireframing
+  * User Stories
+* Week 7
+  * Visual Design Basics
+* Week 8
+  * Responsive Design + Development
+  * Media Queries
+* Week 9
+  * Twitter Bootstrap
+  * SASS
+  * Grunt / Gulp
+* Week 10
+  * Advanced Javascript
+* Week 11
+  * jQuery
+* Week 12
+  * HTML5 + CSS3
+* Week 13
+  * Object Oriented Programming with Javascript
+  * Handlebars HTML Templates
+  * Jekyll Site Generator
+* Week 14
+  * Intro to Javascript Patterns + Require.js
+  * Intro to React.js
+* Week 15
+  * Final Project: Critiques
+* [Final Project](./final/README.md)
+  * Final Project due with **all end of course documentation**!
+
 ### [REQUIRED AND RECOMMENDED RESOURCES](ws1fa15_resources.md)
 See Appendix
 
