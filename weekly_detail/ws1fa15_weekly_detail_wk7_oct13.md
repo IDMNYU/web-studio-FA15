@@ -30,8 +30,19 @@
 </tr>
 <tr>
         <td valign="top">do</td>
-        <td valign="top">
-        </td>
         <td valign="top"></td>
+        <td valign="top">
+            <ul>
+                <li>
+                    Incorporate feedback on your wireframes from Thursday and upload your final wireframes as PDF to your repository.
+                </li>
+                <li>
+                    Complete the <a href="https://github.com/IDMNYU/web-studio-FA15/blob/master/assignments/ws1fa15_self_assessment.md">Mid-Term Self-Assessment</a>
+                </li>
+                <li>
+                    Begin your <a href="https://github.com/IDMNYU/web-studio-FA15/blob/master/assignments/ws1fa15_learning_logs.md">Learning Logs</a>
+                </li>
+            </ul>
+        </td>
 </tr>
 </table>
