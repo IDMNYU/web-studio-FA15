@@ -31,13 +31,7 @@
 <tr>
         <td valign="top">do</td>
         <td valign="top">
-            <strong>Homework due Thursday 10/15</strong>
-            <p>Create a wireframe and paper prototype for your project. <a href="https://github.com/IDMNYU/web-studio-FA15/blob/master/assignments/ws1fa15_ux_assignment.md" target="_blank">Detailed instructions are here!</a></p>
         </td>
-        <td valign="top">
-            <ul>
-                <li></li>
-            </ul>
-        </td>
+        <td valign="top"></td>
 </tr>
 </table>
