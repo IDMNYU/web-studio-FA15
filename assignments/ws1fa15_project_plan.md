@@ -9,7 +9,7 @@
 
 # MIDTERM SELF-ASSESSMENT  
 
-*As a pdf, direct message to deangela on Slack.*
+*Email your assessment as a PDF to me at teaching@chootka.com*
 
 Critically analyze/evaluate your visual foundation process and how it is has changed over the course of the semester. 
 * What are you learning? 
