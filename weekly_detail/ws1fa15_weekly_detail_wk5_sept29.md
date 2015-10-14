@@ -31,14 +31,8 @@
 <tr>
         <td valign="top">do</td>
         <td valign="top">
-            <ul>
-                <li></li>
-            </ul>
         </td>
         <td valign="top">
-            <ul>
-                <li></li>
-            </ul>
         </td>
 </tr>
 </table>

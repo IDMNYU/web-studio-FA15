@@ -59,9 +59,6 @@
             </ul>
         </td>
         <td valign="top">
-            <ul>
-                <li></li>
-            </ul>
         </td>
 </tr>
 </table>
