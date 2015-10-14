@@ -47,40 +47,35 @@
         <td valign="top">Oct 6<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk6_oct6.md">UX Basics<br/>Wireframing</a></td>
         <td valign="top">Oct 8<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk6_oct6.md">UX Basics continued<br/>User Stories<br/>Layout</a></td>
     </tr>
-    <!-- <tr>
-        <td valign="top">6</td>
-        <td valign="top">Oct 6<br/>Intro to Visual Design:<br/>Color Theory<br/>Typography<br/>Layout<a href="weekly_detail/ws1fa15_weekly_detail_wk6_oct6.md"></a></td>
-        <td valign="top">Oct 8<br/>Intro to Visual Design Continued:<br/>Color Theory<br/>Typography<br/>Layout<a href="weekly_detail/ws1fa15_weekly_detail_wk6_oct6.md"></a></td>
-    </tr> -->
     <tr>
         <td valign="top">7</td>
-        <td valign="top">Oct 13<br/>Responsive Design<br/>Determining Breakpoints<a href="weekly_detail/ws1fa15_weekly_detail_wk7_oct13.md"></a></td>
-        <td valign="top">Oct 15<br/>Responsive Development:<br/>CSS Media Queries</br><a href="weekly_detail/ws1fa15_weekly_detail_wk7_oct13.md"></a></td>
+        <td valign="top">Oct 13<br/>**No Class**</td>
+        <td valign="top">Oct 15<a href="weekly_detail/ws1fa15_weekly_detail_wk7_oct13.md"><br/>UX Wrap-up</br>Wireframes<br/>Paper Prototypes</a></td>
     </tr>
     <tr>
         <td valign="top">8</td>
-        <td valign="top">Oct 20<br/>SASS<br/>Bootstrap<br/>Foundation<br/>HTML5 Boilerplate<a href="weekly_detail/ws1fa15_weekly_detail_wk8_oct20.md"></a></td>
-        <td valign="top">Oct 22<br/>Grunt<br/>Gulp<br/>Running a Local Server<a href="weekly_detail/ws1fa15_weekly_detail_wk8_oct20.md"></a></td>
+        <td valign="top">Oct 20<br/>Intro to Visual Design:<br/>Color Theory<br/>Typography<br/>Layout<a href="weekly_detail/ws1fa15_weekly_detail_wk8_oct20.md"></a></td>
+        <td valign="top">Oct 22<br/>Intro to Visual Design Continued:<br/>Color Theory<br/>Typography<br/>Layout<a href="weekly_detail/ws1fa15_weekly_detail_wk8_oct20.md"></a></td>
     </tr>
     <tr>
         <td valign="top">9</td>
-        <td valign="top">Oct 27<br/>Programming Concepts with Javascript<a href="weekly_detail/ws1fa15_weekly_detail_wk9_oct27.md"></a></td>
-        <td valign="top">Oct 29<br/>Programming Concepts with Javascript continued<a href="weekly_detail/ws1fa15_weekly_detail_wk9_oct27.md"></a></td>
+        <td valign="top">Oct 27<br/>Responsive Design<br/>Determining Breakpoints<a href="weekly_detail/ws1fa15_weekly_detail_wk9_oct27.md"></a></td>
+        <td valign="top">Oct 29<br/>Responsive Development:<br/>CSS Media Queries</br><a href="weekly_detail/ws1fa15_weekly_detail_wk9_oct27.md"></a></td>
     </tr>
     <tr>
         <td valign="top">10</td>
-        <td valign="top">Nov 3<br/>jQuery<a href="weekly_detail/ws1fa15_weekly_detail_wk10_nov3.md"></a></td>
-        <td valign="top">Nov 5<br/>jQuery<a href="weekly_detail/ws1fa15_weekly_detail_wk10_nov3.md"></a></td>
+        <td valign="top">Nov 3<br/>SASS<br/>Bootstrap<br/>Foundation<br/>HTML5 Boilerplate<a href="weekly_detail/ws1fa15_weekly_detail_wk10_nov3.md"></a></td>
+        <td valign="top">Nov 5<br/>Grunt<br/>Gulp<br/>Running a Local Server<a href="weekly_detail/ws1fa15_weekly_detail_wk10_nov3.md"></a></td>
     </tr>
     <tr>
         <td valign="top">11</td>
-        <td valign="top">Nov 10<br>Return to HTML5: Forms + Canvas elements<br/>CSS3 Transitions + Animations<a href="weekly_detail/ws1fa15_weekly_detail_wk11_nov10.md"></a></td>
-        <td valign="top">Nov 12 *Veteran's Day*</td>
+        <td valign="top">Nov 10<br/>jQuery<a href="weekly_detail/ws1fa15_weekly_detail_wk11_nov10.md"></a></td>
+        <td valign="top">Nov 12<br/>jQuery<a href="weekly_detail/ws1fa15_weekly_detail_wk11_nov10.md"></a></td>
     </tr>
     <tr>
         <td valign="top">12</td>
-        <td valign="top">Nov 17<br>Object Oriented Programming with Javascript<br/>Handlebars HTML Templates<a href="weekly_detail/ws1fa15_weekly_detail_wk12_nov17.md"></a></td>
-        <td valign="top">Nov 19<br>Object Oriented Programming with Javascript continued<a href="weekly_detail/ws1fa15_weekly_detail_wk12_nov17.md"></a></td>
+        <td valign="top">Nov 17<br>Return to HTML5: Forms + Canvas elements<br/>CSS3 Transitions + Animations<a href="weekly_detail/ws1fa15_weekly_detail_wk12_nov17.md"></a></td>
+        <td valign="top">Nov 19<br>HTML5: Forms + Canvas elements<br/>CSS3 Transitions + Animations Continued<a href="weekly_detail/ws1fa15_weekly_detail_wk12_nov19.md"></a></td>
     </tr>
     <tr>
         <td valign="top">13</td>
