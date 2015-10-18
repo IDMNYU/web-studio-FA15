@@ -25,7 +25,7 @@
     <tr>
         <td valign="top">2</td>
         <td valign="top">Sept 8<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk2_sept8.md">Review Coding Homework #1<br>HTML+CSS Basics<br/>Command Line Intro<br/>Git Intro</a></td>
-        <td valign="top">Sept 10<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk2_sept8.md">CSS Basics Continued<br/>Discuss Project Plan<br/>Developer Tools Intro</a></td>
+        <td valign="top">Sept 10<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk2_sept8.md">CSS Basics Continued<br/>Review Project Plan Homework<br/>Developer Tools Intro</a></td>
     </tr>
     <tr>
         <td valign="top">3</td>
@@ -44,7 +44,7 @@
     </tr>
     <tr>
         <td valign="top">6</td>
-        <td valign="top">Oct 6<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk6_oct6.md">UX Basics<br/>Wireframing</a></td>
+        <td valign="top">Oct 6<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk6_oct6.md">UX Basics<br/>Wireframes</a></td>
         <td valign="top">Oct 8<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk6_oct6.md">UX Basics continued<br/>User Stories<br/>Layout</a></td>
     </tr>
     <tr>
