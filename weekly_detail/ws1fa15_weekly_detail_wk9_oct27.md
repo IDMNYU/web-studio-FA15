@@ -17,23 +17,27 @@
 </tr>
 <tr>
         <td valign="top" width="4%">1</td>
-        <td valign="top" width="48%"><strong>Oct 13</strong></td>
-        <td valign="top" width="48%"><strong>Oct 15</strong></td>
+        <td valign="top" width="48%"><strong>Oct 27</strong></td>
+        <td valign="top" width="48%"><strong>Oct 29</strong></td>
     </tr>
  <tr>
         <td valign="top">class</td>
-        <td valign="top">
-            ** no class **
-        </td>
-        <td valign="top">Review Wireframe / Paper Prototype Assignment</td>
+        <td valign="top">Visual Design Basics Continued</td>
+        <td valign="top">Back to coding</td>
 </tr>
 <tr>
         <td valign="top">do</td>
-        <td valign="top"></td>
         <td valign="top">
             <ul>
                 <li>
-                    Incorporate feedback on your wireframes from Thursday and upload your final wireframes as PDF to your repository.
+                    Complete the <a href="https://github.com/IDMNYU/web-studio-FA15/blob/master/assignments/ws1fa15_self_assessment.md">Mid-Term Self-Assessment</a>
+                </li>
+            </ul>
+        </td>
+        <td valign="top">
+            <ul>
+                <li>
+                    Begin your <a href="https://github.com/IDMNYU/web-studio-FA15/blob/master/assignments/ws1fa15_learning_logs.md">Learning Logs</a>
                 </li>
             </ul>
         </td>

@@ -58,7 +58,7 @@
                     <li>Set up server space for hosting web files</li>
                     <li>Install Chrome or Firefox, a FTP client, and <a href="http://www.sublimetext.com/" target="_blank">Sublime Text 2</a> (or another editor of your choice - just no WYSIWYGs!)</li>
                 </ul>
-                <li>Make a simple "Hello World!" HTML page and upload it to your server.</li>
+                <li>Coding Homework #1: Make a simple "Hello World!" HTML page and upload it to your server.</li>
             </ul>
         </td>
 </tr>

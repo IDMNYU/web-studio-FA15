@@ -25,7 +25,7 @@
         <td valign="top">class</td>
         <td valign="top">
             <ul>
-                <li><a href="weekly_detail/ws1fa15_weekly_detail_wk2_sept8.md">Discuss Homework</a></li>
+                <li><a href="weekly_detail/ws1fa15_weekly_detail_wk2_sept8.md">Discuss Coding Homework #1</a></li>
                 <li>Go over HTML + CSS basics</li>
                 <li>Codepen for HTML + CSS: <a href="http://codepen.io/anon/pen/bVdxBv" target="_blank">http://codepen.io/anon/pen/bVdxBv</a></li>
             </ul>
@@ -67,7 +67,6 @@
             </ul>
         </td>
         <td valign="top">
-
             <strong>Read</strong>
             <ul>
                 <li>http://learnlayout.com/</li>
@@ -94,27 +93,7 @@
             </ul>
             <strong>Assignments that are due Tuesday 9/15</strong>
             <ul>
-                <li><b>Work on your <a href="../assignments/ws1fa15_project_plan.md">Project Plan</a></b>.    <br/>
-                    To complete:
-                    <ul>
-                        <li>Title</li>
-                        <li>Project Statement / Goal</li>
-                        <li>Your motivation, drive, and/or purpose</li>
-                        <li>Target Audience</li> 
-                    </ul>
-                    Here are some thoughtstarters:
-                    <ul>
-                        <li>A portfolio site</li>
-                        <li>A site about your favorite sports team</li>
-                        <li>... your friend's band</li>
-                        <li>... a social cause</li>
-                        <li>... redesign a non-profit's website</li>
-                        <li>... maybe a web comic!</li>
-                    </ul>
-                </li>
-            </ul>
-            <ul>
-                <li><b>Create a basic HTML page and a CSS file that is linked into your HTML page.</b>
+                <li><b>Coding Homework #2: Create a basic HTML page and a CSS file that is linked into your HTML page.</b>
                 <br/>
                 Include at least 3 HTML elements
                 <ul>
@@ -143,6 +122,27 @@
                     <li>Frameworks (Bootstrap and Foundation)</li>
                     <li>CSS Preprocessor: SASS</li>
                 </ul> -->
+            </ul>
+            <strong>Assignments that are due Thursday 9/17</strong>
+            <ul>
+                <li><b>Work on your <a href="../assignments/ws1fa15_project_plan.md">Project Plan</a></b>.    <br/>
+                    To complete:
+                    <ul>
+                        <li>Title</li>
+                        <li>Project Statement / Goal</li>
+                        <li>Your motivation, drive, and/or purpose</li>
+                        <li>Target Audience</li> 
+                    </ul>
+                    Here are some thoughtstarters:
+                    <ul>
+                        <li>A portfolio site</li>
+                        <li>A site about your favorite sports team</li>
+                        <li>... your friend's band</li>
+                        <li>... a social cause</li>
+                        <li>... redesign a non-profit's website</li>
+                        <li>... maybe a web comic!</li>
+                    </ul>
+                </li>
             </ul>
         </td>
 </tr>

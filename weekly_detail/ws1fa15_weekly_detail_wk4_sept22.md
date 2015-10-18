@@ -25,10 +25,13 @@
         <td valign="top">class</td>
         <td valign="top">
             <ul>
-                <li>Begin Javascript basics</li>
+                <li>Review Coding Homework #3</li>                
+                <li>Finish CSS Positioning Tutorial</li>                 
+                <li>HTML5 Intro: audio/video</li>               
+                <li>Intro to the DOM</li>
             </ul>
         </td>
-        <td valign="top">Javascript basics continued</td>
+        <td valign="top">Javascript Basics</td>
 </tr>
 <tr>
         <td valign="top">do</td>
@@ -39,8 +42,8 @@
             </ul>
         </td>
         <td valign="top">
-            <strong>Homework due Tuesday 9/29</strong>
-            <p>Build a web page using HTML, CSS and JS we’ve been learning so far. Include at least 5 HTML elements, 3 CSS styles per element, and JS event handlers. Don’t forget that you can also add and remove CSS styles from an element with the classList.add and classList.remove methods.</p>
+            <strong>Coding Homework #4 due Tuesday 9/29</strong>
+            <p>Make the most annoying website! Build a web page using HTML, CSS and JS we’ve been learning so far. Include at least 5 HTML elements, 3 CSS styles per element, and JS event handlers. Don’t forget that you can also add and remove CSS styles from an element with the classList.add and classList.remove methods.</p>
 
             <p>Refer to the <a href="https://github.com/IDMNYU/web-studio-FA15/tree/master/class_exercises/js_demo" target="_blank">example file</a> we made in class to remember some of what we covered.</p>
 
@@ -92,12 +95,6 @@
                          element.onclick<br/>
                          element.onmouseover<br/>
                          element.onmouseout</li>
-                    </ul>
-                </li>
-                <li>HTML
-                    <ul>
-                        <li><pre><audio src=“path_to_audio.mp3” controls></pre></li>
-                        <li><pre><video src=“path_to_video.ogg” controls></pre></li>
                     </ul>
                 </li>
             </ul>

@@ -15,30 +15,21 @@
 <td>Tuesdays</td>
 <td>Thursdays</td>
 </tr>
-<!-- first week -->
 <tr>
         <td valign="top" width="4%">1</td>
-        <td valign="top" width="48%"><strong>Sept 29</strong></td>
-        <td valign="top" width="48%"><strong>Oct 1</strong></td>
+        <td valign="top" width="48%"><strong>Oct 20</strong></td>
+        <td valign="top" width="48%"><strong>Oct 22</strong></td>
     </tr>
  <tr>
         <td valign="top">class</td>
         <td valign="top">
-            * No Class *
+            Special Guest Critic John Finley
         </td>
-        <td valign="top">
-            <ul>
-                <li>Review HTML/CSS/JS covered so far</li>                
-                <li>More HTML Audio + Video: Multiple sources for different file formats</li>               
-                <li>Javascript: Conditionals, Switch Statements</li>
-            </ul>
-        </td>
+        <td valign="top">Visual Design Basics</td>
 </tr>
 <tr>
         <td valign="top">do</td>
-        <td valign="top">
-        </td>
-        <td valign="top">
-        </td>
+        <td valign="top"></td>
+        <td valign="top"></td>
 </tr>
 </table>

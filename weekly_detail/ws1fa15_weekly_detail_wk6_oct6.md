@@ -25,10 +25,16 @@
         <td valign="top">class</td>
         <td valign="top">
             <ul>
-                <li>UX Basics: Wireframes, User stories, what is UX and why is it important?</li>
+                <li>UX Basics: Wireframes</li>
+                <li>User stories</li>
+                <li>What is UX and why is it important?</li>
             </ul>
         </td>
-        <td valign="top">Ux Basics continued</td>
+        <td valign="top">
+            <ul>
+                <li>Review User Stories + Project Plan Progress</li>
+            </ul>
+        </td>
 </tr>
 <tr>
         <td valign="top">do</td>
@@ -59,7 +65,7 @@
             </ul>
         </td>
         <td valign="top">
-            <strong>Homework due Thursday 10/15</strong>
+            <strong>Wireframe / Paper Prototype Homework due Thursday 10/15</strong>
             <p>Create a wireframe and paper prototype for your project. <a href="https://github.com/IDMNYU/web-studio-FA15/blob/master/assignments/ws1fa15_ux_assignment.md" target="_blank">Detailed instructions are here!</a></p>
         </td>
 </tr>

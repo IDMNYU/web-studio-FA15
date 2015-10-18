@@ -24,23 +24,23 @@
     </tr>
     <tr>
         <td valign="top">2</td>
-        <td valign="top">Sept 8<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk2_sept8.md">Discuss Homework<br>HTML+CSS Basics</a></td>
-        <td valign="top">Sept 10<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk2_sept8.md">CSS Basics Continued</a></td>
+        <td valign="top">Sept 8<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk2_sept8.md">Review Coding Homework #1<br>HTML+CSS Basics<br/>Command Line Intro<br/>Git Intro</a></td>
+        <td valign="top">Sept 10<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk2_sept8.md">CSS Basics Continued<br/>Discuss Project Plan<br/>Developer Tools Intro</a></td>
     </tr>
     <tr>
         <td valign="top">3</td>
-        <td valign="top">Sept 15<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk3_sept15.md">Review HTML Homework<br/>Github + Command Line Demo</a></td>
-        <td valign="top">Sept 17<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk3_sept15.md">Discuss Project Plans<br/>CSS Basics continued<br/>Intro to HTML5</a></td>
+        <td valign="top">Sept 15<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk3_sept15.md">Review Coding Homework #2<br/>Github + Command Line Demo</a></td>
+        <td valign="top">Sept 17<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk3_sept15.md">Discuss Project Plans<br/>CSS Box Model<br/>SSH Keys With Git</a></td>
     </tr>
     <tr>
         <td valign="top">4</td>
-        <td valign="top">Sept 22<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk4_sept22.md">Review HTML Homework + Project Plans<br/>Intro to the DOM<br/>Javascript Basics</a></td>
-        <td valign="top">Sept 24<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk4_sept22.md">Javascript Basics continued</a></td>
+        <td valign="top">Sept 22<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk4_sept22.md">Review Coding Homework #3<br/>CSS Positioning<br/>Intro to the DOM<br/>Intro to HTML5</a></td>
+        <td valign="top">Sept 24<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk4_sept22.md">Javascript Basics</a></td>
     </tr>
     <tr>
         <td valign="top">5</td>
         <td valign="top">Sept 29<br/>* No Class *</td>
-        <td valign="top">Oct 1<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk5_sept29.md">Javascript Basics continued</a></td>
+        <td valign="top">Oct 1<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk5_sept29.md">Review Homework #4<br/>HTML/CSS/JS Review So Far...<br/>More HTML Audio + Video<br/>Wrapping up Javascript Basics Tutorial</a></td>
     </tr>
     <tr>
         <td valign="top">6</td>

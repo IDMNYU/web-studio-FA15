@@ -26,24 +26,22 @@
         <td valign="top">
             <ul>
                 <li>Github + Command Line Demo</li>
-                <li>Review HTML Homework</li>
+                <li>Review Coding Homework #2</li>
             </ul>
         </td>
         <td valign="top">
             <ul>
-                <li>Discuss Project Plans</li>
+                <li>Review Project Plan Homework</li>
                 <li>Using ssh keys with Github</li>
                 <li>CSS basics wrap-up: box model and positioning</li>
                 <li>SMACCS style of writing CSS</li>
-                <li>HTML5 Intro: audio/video</li>
-                <li>Discuss the basics of how to publish your site: Domain names, hosting, FTP, what is a web server, Github</li>
-                <li>Discussion of how the web works: Basic concepts to understand what’s happening under the hood of the browser.</li>
             </ul>
         </td>
 </tr>
 <tr>
         <td valign="top">do</td>
         <td valign="top">
+            <strong>Continue work on Project Plan due Thursday 9/17</strong>
             <strong>Read</strong>
             <ul>
                 <li><a href="https://smacss.com/book/" target="_blank">https://smacss.com/book/</a>, ch 1-5</li>
@@ -61,10 +59,9 @@
             </ul>
         </td>
         <td valign="top">
-            <strong>Homework due Tuesday 9/22</strong>
+            <strong>Coding Homework #3 due Tuesday 9/22</strong>
             <ul>
                 <li>Create an HTML page using CSS positioning as covered in class, using SMACCS style of organizing your CSS.</li>
-                <li>Finish Project Plans.</li>
             </ul>
             <strong>Read</strong>
             <ul>
