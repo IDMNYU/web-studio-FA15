@@ -41,7 +41,7 @@
 <tr>
         <td valign="top">do</td>
         <td valign="top">
-            <strong>Mid-Term Self-Assessment Due 10/27</strong>
+            <strong>Mid-Term Self-Assessment Due 10/29</strong>
             <ul>
                 <li>Complete the <a href="https://github.com/IDMNYU/web-studio-FA15/blob/master/assignments/ws1fa15_self_assessment.md">Mid-Term Self-Assessment</a>
                 </li>
