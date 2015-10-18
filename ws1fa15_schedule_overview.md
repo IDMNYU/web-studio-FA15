@@ -45,12 +45,12 @@
     <tr>
         <td valign="top">6</td>
         <td valign="top">Oct 6<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk6_oct6.md">UX Basics<br/>Wireframes</a></td>
-        <td valign="top">Oct 8<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk6_oct6.md">UX Basics continued<br/>User Stories<br/>Layout</a></td>
+        <td valign="top">Oct 8<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk6_oct6.md">Review User Stories + Project Plan Homework<br/>UX Basics continued<br/>User Stories<br/>Layout</a></td>
     </tr>
     <tr>
         <td valign="top">7</td>
         <td valign="top">Oct 13<br/>**No Class**</td>
-        <td valign="top">Oct 15<a href="weekly_detail/ws1fa15_weekly_detail_wk7_oct13.md"><br/>UX Wrap-up</br>Wireframes<br/>Paper Prototypes</a></td>
+        <td valign="top">Oct 15<a href="weekly_detail/ws1fa15_weekly_detail_wk7_oct13.md"><br/>Review Wireframes + Paper Prototypes Homework</a></td>
     </tr>
     <tr>
         <td valign="top">8</td>
