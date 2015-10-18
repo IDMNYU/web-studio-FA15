@@ -23,7 +23,7 @@
  <tr>
         <td valign="top">class</td>
         <td valign="top">
-            Review Mood Board Homework<br/>
+            <strong>Review Mood Board Homework</strong><br/>
             Visual Design Basics Continued
             <ul>
                 <li>Grid layout</li>
