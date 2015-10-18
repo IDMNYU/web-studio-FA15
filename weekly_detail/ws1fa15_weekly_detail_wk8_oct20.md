@@ -16,20 +16,48 @@
 <td>Thursdays</td>
 </tr>
 <tr>
-        <td valign="top" width="4%">1</td>
+        <td valign="top" width="4%">8</td>
         <td valign="top" width="48%"><strong>Oct 20</strong></td>
         <td valign="top" width="48%"><strong>Oct 22</strong></td>
     </tr>
  <tr>
         <td valign="top">class</td>
         <td valign="top">
-            Special Guest Critic John Finley
+            <ul>
+                <li>Special Guest Critic John Finley</li>
+                <li>Review Final Wireframes + Paper Prototypes</li>
+            </ul>
         </td>
-        <td valign="top">Visual Design Basics</td>
+        <td valign="top">
+            Visual Design Basics
+            <ul>
+                <li>Mood Boards</li>
+                <li>color theory</li>
+                <li>typography + how to use type</li>
+            </ul>
+        </td>
 </tr>
 <tr>
         <td valign="top">do</td>
-        <td valign="top"></td>
-        <td valign="top"></td>
+        <td valign="top">
+            <strong>Watch</strong>
+            <ul>
+                <li>https://webdesign.tutsplus.com/courses/introduction-to-web-typography</li>
+            </ul>
+        </td>
+        <td valign="top">
+            <strong>Moodboard Homework Due 10/27</strong>
+            <!-- <ul>
+                <li></li>
+            </ul> -->
+            <!-- <strong>Read</strong>
+            <ul>
+                <li></li>
+            </ul> -->
+            <!-- <strong>Watch</strong>
+            <ul>
+                <li>https://webdesign.tutsplus.com/courses/introduction-to-web-typography</li>
+            </ul> -->
+        </td>
 </tr>
 </table>

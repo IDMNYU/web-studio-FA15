@@ -54,18 +54,18 @@
     </tr>
     <tr>
         <td valign="top">8</td>
-        <td valign="top">Oct 20<br/>Intro to Visual Design:<br/>Color Theory<br/>Typography<br/>Layout<a href="weekly_detail/ws1fa15_weekly_detail_wk8_oct20.md"></a></td>
-        <td valign="top">Oct 22<br/>Intro to Visual Design Continued:<br/>Color Theory<br/>Typography<br/>Layout<a href="weekly_detail/ws1fa15_weekly_detail_wk8_oct20.md"></a></td>
+        <td valign="top">Oct 20<br/>Special Guest Critic John Finley<br/>Review Final Wireframes + Paper Prototypes<a href="weekly_detail/ws1fa15_weekly_detail_wk8_oct20.md"></a></td>
+        <td valign="top">Oct 22<br/>Intro to Visual Design Continued:<br/>Color Theory<br/>Typography<a href="weekly_detail/ws1fa15_weekly_detail_wk8_oct20.md"></a></td>
     </tr>
     <tr>
         <td valign="top">9</td>
-        <td valign="top">Oct 27<br/>Responsive Design<br/>Determining Breakpoints<a href="weekly_detail/ws1fa15_weekly_detail_wk9_oct27.md"></a></td>
-        <td valign="top">Oct 29<br/>Responsive Development:<br/>CSS Media Queries</br><a href="weekly_detail/ws1fa15_weekly_detail_wk9_oct27.md"></a></td>
+        <td valign="top">Oct 27<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk9_oct27.md">Review Mood Board Homework<br/>Visual Design Continued<br/>Layout</a></td>
+        <td valign="top">Oct 29<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk9_oct27.md">Mid-Term Self Assessments Due<br/>Responsive Design + Development:<br/>Determining Breakpoints<br/>CSS Media Queries</br></a></td>
     </tr>
     <tr>
         <td valign="top">10</td>
-        <td valign="top">Nov 3<br/>SASS<br/>Bootstrap<br/>Foundation<br/>HTML5 Boilerplate<a href="weekly_detail/ws1fa15_weekly_detail_wk10_nov3.md"></a></td>
-        <td valign="top">Nov 5<br/>Grunt<br/>Gulp<br/>Running a Local Server<a href="weekly_detail/ws1fa15_weekly_detail_wk10_nov3.md"></a></td>
+        <td valign="top">Nov 3<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk10_nov3.md">Responsive Development Continued<br/>SASS<br/>Bootstrap<br/>Foundation<br/>HTML5 Boilerplate</a></td>
+        <td valign="top">Nov 5<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk10_nov3.md">Grunt<br/>Gulp<br/>Running a Local Server</a></td>
     </tr>
     <tr>
         <td valign="top">11</td>
