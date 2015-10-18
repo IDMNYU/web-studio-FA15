@@ -54,8 +54,8 @@
     </tr>
     <tr>
         <td valign="top">8</td>
-        <td valign="top">Oct 20<br/>Special Guest Critic John Finley<br/>Review Final Wireframes + Paper Prototypes<a href="weekly_detail/ws1fa15_weekly_detail_wk8_oct20.md"></a></td>
-        <td valign="top">Oct 22<br/>Intro to Visual Design Continued:<br/>Color Theory<br/>Typography<a href="weekly_detail/ws1fa15_weekly_detail_wk8_oct20.md"></a></td>
+        <td valign="top">Oct 20<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk8_oct20.md">Special Guest Critic John Finley<br/>Review Final Wireframes + Paper Prototypes</a></td>
+        <td valign="top">Oct 22<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk8_oct20.md">Intro to Visual Design Continued:<br/>Color Theory<br/>Typography</a></td>
     </tr>
     <tr>
         <td valign="top">9</td>
