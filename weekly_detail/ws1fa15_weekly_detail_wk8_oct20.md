@@ -40,13 +40,25 @@
 <tr>
         <td valign="top">do</td>
         <td valign="top">
+            <strong>Read</strong>
+            <ul>
+                <li>http://alistapart.com/article/responsive-web-design</li>
+                <li>https://webdesign.tutsplus.com/articles/the-state-of-responsive-web-design--cms-22878</li>
+                <li>https://webdesign.tutsplus.com/articles/an-introduction-to-color-theory-for-web-designers--webdesign-1437</li>
+                <li>https://webdesign.tutsplus.com/articles/understanding-visual-hierarchy-in-web-design--webdesign-84</li>
+                <li>https://webdesign.tutsplus.com/articles/the-gestalt-principle-design-theory-for-web-designers--webdesign-1756</li>
+                <li>https://webdesign.tutsplus.com/articles/less-is-more-fundamentals-of-minimalist-web-design--webdesign-8</li>
+                <li>https://webdesign.tutsplus.com/articles/visual-direction-in-web-design--webdesign-2545</li>
+            </ul>
             <strong>Watch</strong>
             <ul>
                 <li>https://webdesign.tutsplus.com/courses/introduction-to-web-typography</li>
+                <li>https://webdesign.tutsplus.com/courses/responsive-web-design-revisited</li>
             </ul>
         </td>
         <td valign="top">
-            <strong>Moodboard Homework Due 10/27</strong>
+            <strong>Continue the readings / video tutorial assignments from Tuesday</strong>
+            <!-- <strong>Moodboard Homework Due 10/27</strong> -->
             <!-- <ul>
                 <li></li>
             </ul> -->
