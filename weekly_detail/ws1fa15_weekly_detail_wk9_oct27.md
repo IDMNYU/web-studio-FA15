@@ -23,7 +23,7 @@
  <tr>
         <td valign="top">class</td>
         <td valign="top">
-            <strong>Review Mood Board Homework</strong><br/>
+            <strong>Review Design Homework</strong><br/>
             Visual Design Basics Continued
             <ul>
                 <li>Grid layout</li>
@@ -46,6 +46,7 @@
                 <li>Complete the <a href="https://github.com/IDMNYU/web-studio-FA15/blob/master/assignments/ws1fa15_self_assessment.md">Mid-Term Self-Assessment</a>
                 </li>
             </ul>
+            <strong>Continue developing site designs</strong>
             <strong>Read</strong>
             <ul>
                 <li>https://developer.mozilla.org/en-US/docs/Web/Guide/Responsive_design</li>
@@ -67,6 +68,7 @@
                     Begin your <a href="https://github.com/IDMNYU/web-studio-FA15/blob/master/assignments/ws1fa15_learning_logs.md">Learning Logs</a>
                 </li>
             </ul>
+            <strong>Continue developing site designs</strong>
             <strong>Read</strong>
             <ul>
                 <li>http://sass-lang.com/</li>
