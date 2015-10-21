@@ -58,18 +58,13 @@
         </td>
         <td valign="top">
             <strong>Continue the readings / video tutorial assignments from Tuesday</strong>
-            <!-- <strong>Moodboard Homework Due 10/27</strong> -->
-            <!-- <ul>
-                <li></li>
-            </ul> -->
-            <!-- <strong>Read</strong>
+            <strong>Design Homework Due 10/27</strong>
             <ul>
-                <li></li>
-            </ul> -->
-            <!-- <strong>Watch</strong>
-            <ul>
-                <li>https://webdesign.tutsplus.com/courses/introduction-to-web-typography</li>
-            </ul> -->
+                <li>Create visual designs using a graphics program of your choice.</li>
+                <li>Consider typography (what feeling or message does the font you chose evoke?)</li>
+                <li>Consider your color palette (again, what feeling or message are you communicating?)</li>
+                <li>Create designs for your header, navigation and footer elements of your projects</li>
+            </ul>
         </td>
 </tr>
 </table>
