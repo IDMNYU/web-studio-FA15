@@ -69,8 +69,8 @@
     </tr>
     <tr>
         <td valign="top">11</td>
-        <td valign="top">Nov 10<br/>jQuery<a href="weekly_detail/ws1fa15_weekly_detail_wk11_nov10.md"></a></td>
-        <td valign="top">Nov 12<br/>jQuery<a href="weekly_detail/ws1fa15_weekly_detail_wk11_nov10.md"></a></td>
+        <td valign="top">Nov 10<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk11_nov10.md">jQuery</a></td>
+        <td valign="top">Nov 12<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk11_nov10.md">jQuery</a></td>
     </tr>
     <tr>
         <td valign="top">12</td>

@@ -43,6 +43,7 @@
             <ul>
                 <li><a href="http://www.mountaingoatsoftware.com/agile/user-stories" target="_blank">User Stories</a></li>
                 <li><a href="https://webdesign.tutsplus.com/articles/defining-and-applying-personas-to-ux-design--webdesign-7561" target="_blank">User Personas</a></li>
+                <li><a href="https://webdesign.tutsplus.com/articles/stop-putting-user-personas-in-your-desk-drawer--cms-22625" target="_blank">More `User Personas</a></li>
                 <li><a href="http://www.uxmatters.com/mt/archives/2015/10/getting-started-in-user-experience.php" target="_blank">Getting Started with UX</a></li>
                 <li><a href="https://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399" target="_blank">Beginners Guide to Wireframes</a></li>
                 <li><a href="http://wireframes.tumblr.com/" target="_blank">I <3 Wireframes</a></li>

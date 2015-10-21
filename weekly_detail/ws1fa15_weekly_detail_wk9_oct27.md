@@ -49,6 +49,8 @@
             <strong>Read</strong>
             <ul>
                 <li>https://developer.mozilla.org/en-US/docs/Web/Guide/Responsive_design</li>
+                <li>https://webdesign.tutsplus.com/tutorials/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015</li>
+                <li>https://webdesign.tutsplus.com/articles/how-to-create-responsive-images-using-the-picture-element--cms-24003</li>
             </ul>
             <strong>Watch</strong>
             <ul>
