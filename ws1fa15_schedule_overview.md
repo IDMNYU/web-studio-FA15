@@ -59,12 +59,12 @@
     </tr>
     <tr>
         <td valign="top">9</td>
-        <td valign="top">Oct 27<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk9_oct27.md">Visual Design Continued<br/>Layout</a></td>
+        <td valign="top">Oct 27<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk9_oct27.md">Review Site Designs<br/>Visual Design Continued<br/>Layout</a></td>
         <td valign="top">Oct 29<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk9_oct27.md">Mid-Term Self Assessments Due<br/>Responsive Design + Development:<br/>Determining Breakpoints<br/>CSS Media Queries</br></a></td>
     </tr>
     <tr>
         <td valign="top">10</td>
-        <td valign="top">Nov 3<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk10_nov3.md">Responsive Development Continued<br/>SASS<br/>Bootstrap<br/>Foundation<br/>HTML5 Boilerplate</a></td>
+        <td valign="top">Nov 3<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk10_nov3.md">Review Site Designs<br/>Responsive Development Continued<br/>SASS<br/>Bootstrap<br/>Foundation<br/>HTML5 Boilerplate</a></td>
         <td valign="top">Nov 5<br/><a href="weekly_detail/ws1fa15_weekly_detail_wk10_nov3.md">Grunt<br/>Gulp<br/>Running a Local Server</a></td>
     </tr>
     <tr>
@@ -74,12 +74,12 @@
     </tr>
     <tr>
         <td valign="top">12</td>
-        <td valign="top">Nov 17<br>Return to HTML5: Forms + Canvas elements<br/>CSS3 Transitions + Animations<a href="weekly_detail/ws1fa15_weekly_detail_wk12_nov17.md"></a></td>
-        <td valign="top">Nov 19<br>HTML5: Forms + Canvas elements<br/>CSS3 Transitions + Animations Continued<a href="weekly_detail/ws1fa15_weekly_detail_wk12_nov19.md"></a></td>
+        <td valign="top">Nov 17<br/>Return to HTML5: Forms + Canvas elements<br/>CSS3 Transitions + Animations<a href="weekly_detail/ws1fa15_weekly_detail_wk12_nov17.md"></a></td>
+        <td valign="top">Nov 19<br/>HTML5: Forms + Canvas elements<br/>CSS3 Transitions + Animations Continued<a href="weekly_detail/ws1fa15_weekly_detail_wk12_nov19.md"></a></td>
     </tr>
     <tr>
         <td valign="top">13</td>
-        <td valign="top">Nov 24<br>Intro to AMD, Require.js, and the Module Pattern<a href="weekly_detail/ws1fa15_weekly_detail_wk13_nov24.md"></a></td>
+        <td valign="top">Nov 24<br/>Intro to AMD, Require.js, and the Module Pattern<a href="weekly_detail/ws1fa15_weekly_detail_wk13_nov24.md"></a></td>
         <td valign="top">Nov 26 *Thanksgiving*</td>
     </tr>
     <tr>
