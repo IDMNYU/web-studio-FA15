@@ -1,0 +1,177 @@
+/*
+font-family: 'Avenir 35 Light'
+font-family: 'Avenir 55 Roman'
+font-family: 'Avenir 85 Heavy'
+font-family: 'Avenir 65 Medium'
+font-family: 'Raleway', sans-serif;
+*/
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body {
+	/*font-family: 'Avenir 55 Roman';*/
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+}
+h1 {
+	font-size: 2em;
+}
+h2 {
+	font-size: 1.75em;
+}
+.post h2 {
+	text-transform: uppercase;
+}
+h3 {
+	font-size: 1.5em;
+}
+h4 {
+	font-size: 1.25em;
+}
+p {
+	font-size: 1em;
+}
+img {
+	width: 90%;
+}
+#screen_1200 {
+	display: none;
+}
+
+#screen_992 {
+	display: none;
+}
+
+#screen_768 {
+	display: none;
+}
+
+#screen_small {
+	display: none;
+}
+
+#screen_iPhone6Plus {
+	display: none;
+}
+
+#screen_iPhone6 {
+	display: none;
+}
+
+#screen_GalaxyS5{
+	display: none;
+}
+
+#screen_iPhone5 {
+	display: none;
+}
+
+#screen_iPhone4 {
+	display: none;
+}
+
+.hero {
+	background: url(img/hero.jpg) no-repeat;
+}
+
+.post {
+
+}
+
+.side-post {
+
+}
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+/* Desktop */
+@media only screen and (min-width: 1200px) {
+	#screen_1200 {
+		display: block;
+	}
+
+}
+/* Tablet */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+	
+	#screen_992 {
+		display: block;
+	}
+
+}
+/* Mobile */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	body {
+		font-size: 18px;
+	}
+	img {
+		width: 100%;
+	}
+	#screen_768 {
+		display: block;
+	}
+	p {
+		color: #ff0000;
+	}
+}
+/* Smaller Mobile */
+@media only screen and (max-width: 767px) {
+	#screen_small {
+		display: block;
+	}
+
+}
+
+/* Specific Mobile Device Media Queries */
+
+/* ----------- iPhone 6+ ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) { 
+	#screen_iPhone6Plus {
+		display: block;
+	}
+	p {
+		color: #00ff00;
+	}
+}
+
+/* ----------- iPhone 6 ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (device-aspect-ratio: 375/667) { 
+	#screen_iPhone6 {
+		display: block;
+	}
+}
+
+/* ----------- Galaxy S5 / Android ----------- */
+
+/* Portrait and Landscape */
+@media screen and (device-width: 360px) and (device-height: 640px) {
+	#screen_GalaxyS5{
+		display: block;
+	}
+}
+
+/* ----------- iPhone 5 and 5S ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (device-aspect-ratio: 40/71) {
+	#screen_iPhone5 {
+		display: block;
+	}
+}
+
+/* ----------- iPhone 4 and 4S ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (device-aspect-ratio: 2/3) {
+	#screen_iPhone4 {
+		display: block;
+	}
+}
