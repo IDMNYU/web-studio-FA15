@@ -1,0 +1,7 @@
+.DS_Store
+_untracked/
+_untracked/*
+build/
+build/*
+node_modules/
+node_modules/*

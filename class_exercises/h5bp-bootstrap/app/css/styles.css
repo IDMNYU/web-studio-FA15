@@ -1,0 +1,211 @@
+@charset "UTF-8";
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline; }
+
+html {
+  line-height: 1; }
+
+ol, ul {
+  list-style: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle; }
+
+q, blockquote {
+  quotes: none; }
+  q:before, q:after, blockquote:before, blockquote:after {
+    content: "";
+    content: none; }
+
+a img {
+  border: none; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+  display: block; }
+
+/* Fonts */
+/* Colors */
+/* Responsive Breakpoints */
+/* Padding */
+/* mixins */
+/* fonts */
+/* Example Usage:
+ *
+    @font-face{
+        font-family:"Sofia Pro Light";
+        src:url("../assets/fonts/0eaf6264-15ee-4251-826e-9c0a59e8395f.eot?#iefix");
+        src:url("../assets/fonts/0eaf6264-15ee-4251-826e-9c0a59e8395f.eot?#iefix") format("eot"),url("../assets/fonts/8d11b8a0-868c-4a53-8b26-9f0ccbd58247.woff2") format("woff2"),url("../assets/fonts/9b976f15-23b7-45cd-ad4b-59c95b2889f9.woff") format("woff"),url("../assets/fonts/864da3de-5a97-4ce6-a22b-22932ed4dfe0.ttf") format("truetype"),url("../assets/fonts/d5898683-1b2a-4b1b-8058-0c8db30e40cf.svg#d5898683-1b2a-4b1b-8058-0c8db30e40cf") format("svg");
+    }
+ *
+ */
+/* 
+ * Base Rules
+ *
+ A Base rule is applied to an element using an element selector, a descendent selector, or a child selector, along with any pseudo-classes. It doesn’t include any class or ID selectors. It is defining the default styling for how that element should look in all occurrences on the page.
+ *
+ */
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px; }
+
+h1 {
+  font-size: 2em; }
+
+h2 {
+  font-size: 1.75em; }
+
+h3 {
+  font-size: 1.5em; }
+
+h4 {
+  font-size: 1.25em; }
+
+p {
+  font-size: 1em; }
+
+img {
+  width: 90%; }
+
+/* 
+ * Layout Rules
+ *
+ The major components, such as header, footer, articles.
+ *
+ */
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none; }
+
+nav li {
+  display: inline;
+  height: 30px;
+  margin-left: 10px; }
+
+/* 
+ * Module Rules
+ *
+ A Module is a more discrete component of the page. It is your navigation bars and your carousels and your dialogs and your widgets and so on. This is the meat of the page.
+ *
+ */
+.hero {
+  background: url(../img/hero.jpg) no-repeat; }
+
+.post h2 {
+  text-transform: uppercase; }
+
+/* 
+ * State Rules
+ *
+ A state is something that augments and overrides all other styles. For example, an accordion section may be in a collapsed or expanded state. A message may be in a success or error state.
+ *
+ */
+#screen_1200 {
+  display: none; }
+
+#screen_992 {
+  display: none; }
+
+#screen_768 {
+  display: none; }
+
+#screen_small {
+  display: none; }
+
+#screen_iPhone6Plus {
+  display: none; }
+
+#screen_iPhone6 {
+  display: none; }
+
+#screen_GalaxyS5 {
+  display: none; }
+
+#screen_iPhone5 {
+  display: none; }
+
+#screen_iPhone4 {
+  display: none; }
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+/* Desktop */
+@media only screen and (min-width: 1200px) {
+  #screen_1200 {
+    display: block; } }
+/* Tablet */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  #screen_992 {
+    display: block; } }
+/* Mobile */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  body {
+    font-size: 18px; }
+
+  img {
+    width: 100%; }
+
+  #screen_768 {
+    display: block; }
+
+  p {
+    color: #ff0000; } }
+/* Smaller Mobile */
+@media only screen and (max-width: 767px) {
+  #screen_small {
+    display: block; } }
+/* Specific Mobile Device Media Queries */
+/* ----------- iPhone 6+ ----------- */
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) {
+  #screen_iPhone6Plus {
+    display: block; }
+
+  p {
+    color: #00ff00; } }
+/* ----------- iPhone 6 ----------- */
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (device-aspect-ratio: 375 / 667) {
+  #screen_iPhone6 {
+    display: block; } }
+/* ----------- Galaxy S5 / Android ----------- */
+/* Portrait and Landscape */
+@media screen and (device-width: 360px) and (device-height: 640px) {
+  #screen_GalaxyS5 {
+    display: block; } }
+/* ----------- iPhone 5 and 5S ----------- */
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (device-aspect-ratio: 40 / 71) {
+  #screen_iPhone5 {
+    display: block; } }
+/* ----------- iPhone 4 and 4S ----------- */
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (device-aspect-ratio: 2 / 3) {
+  #screen_iPhone4 {
+    display: block; } }
+
+

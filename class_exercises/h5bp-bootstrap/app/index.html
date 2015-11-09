@@ -6,25 +6,14 @@
         <title></title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <script type="text/javascript">
-            (function() {
-                var path = '//easy.myfonts.net/v2/js?sid=10336(font-family=Avenir+35+Light)&sid=10338(font-family=Avenir+55+Roman)&sid=10340(font-family=Avenir+85+Heavy)&sid=10344(font-family=Avenir+65+Medium)&key=MItc2KHReb',
-                    protocol = ('https:' == document.location.protocol ? 'https:' : 'http:'),
-                    trial = document.createElement('script');
-                trial.type = 'text/javascript';
-                trial.async = true;
-                trial.src = protocol + path;
-                var head = document.getElementsByTagName("head")[0];
-                head.appendChild(trial);
-            })();
-        </script>
-        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
-
+        
         <link href='https://fonts.googleapis.com/css?family=Raleway:400,700,300,500' rel='stylesheet' type='text/css'>
 
+        <!--build:css css/styles.min.css-->
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
-        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/styles.css">
+        <!--endbuild-->
     </head>
     <body>
       <div class="container">
@@ -41,7 +30,7 @@
           <div class="col-md-8">
             <div class="post">
               <h2>this is a heading</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
               <img src="img/post-image.jpg" alt="default image" />
             </div>
             <div class="post">
@@ -53,7 +42,7 @@
             <div class="post">
               <h2>this is a heading</h2>
               <h3>Perhaps even an h3</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <p><strong>Lorem ipsum dolor sit amet</strong>, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
               <img src="img/post-image.jpg" alt="default image" />
             </div>
           </div>
@@ -66,15 +55,15 @@
             </div>
             <div class="side-post">
               <img src="img/side-image.jpg" alt="side image wolf!" />
-              <p>5 ways to forget everything you know about dogs</p>
+              <p>Labore et dolore magna aliqua. Ut enim ad minim veniam</p>
             </div>
             <div class="side-post">
               <img src="img/side-image.jpg" alt="side image wolf!" />
-              <p>5 ways to forget everything you know about dogs</p>
+              <p>Lorem ipsum dolor sit amet</strong>, consectetur adipisicing elit</p>
             </div>
             <div class="side-post">
               <img src="img/side-image.jpg" alt="side image wolf!" />
-              <p>5 ways to forget everything you know about dogs</p>
+              <p>Consectetur adipisicing elit, sed do eiusmod</p>
             </div>
          </div>
         </div>
@@ -84,10 +73,11 @@
         <footer>
           <p>&copy; Company 2015</p>
         </footer>
-      </div> <!-- /container -->        
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+      </div> <!-- /container -->  
+        <!--build:js js/main.min.js-->      
+        <script src="js/vendor/jquery-1.11.2.min.js"></script>
         <script src="js/vendor/bootstrap.min.js"></script>
         <script src="js/main.js"></script>
+        <!-- endbuild -->
     </body>
 </html>
