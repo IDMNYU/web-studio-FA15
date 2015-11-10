@@ -2,20 +2,17 @@ $( document ).ready(function() {
 
 	console.log("document is ready!");
 
-	var $a = $("a");
+	// jQuery can help you select HTML elements on your page
+	var $button = $(".button");
 
 	// set up button events
-	// $a.click(function( event ) {
-	// 	alert( "The link will no longer take you to jquery.com" );
-	// 	event.preventDefault();
+	$button.click(function( event ) {
+		//alert( "The link will no longer take you to jquery.com" );
+		//event.preventDefault();
 
-		$(this).hide( 300 );
-	// });
-
-	// jQuery can help you select HTML elements on your page
-	// and add and remove classes
-	$a.addClass("pink");
-	$a.removeClass("pink");
+		// and animate, fade out, fade in, add and remove classes
+		$(this).hide( 300 ).delay(500).toggleClass("error").show(300);
+	});
 
 
 	// jQuery makes animations easy
