@@ -153,6 +153,12 @@ nav li {
 .post h2 {
   text-transform: uppercase; }
 
+.project {
+  cursor: pointer;
+  height: 30px;
+  overflow: hidden;
+  margin: 20px 0; }
+
 #screen_1200 {
   display: none; }
 

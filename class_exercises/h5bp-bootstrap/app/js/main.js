@@ -1,24 +1,85 @@
-$( document ).ready(function() {
+$( document ).ready( function() {
 
 	console.log("document is ready!");
 
+	var looping = false;
+
 	// jQuery can help you select HTML elements on your page
 	var $button = $(".button");
+	var $project = $(".project");
+				//$("p")
+				//$("#myID")
 
 	// set up button events
-	$button.click(function( event ) {
-		//alert( "The link will no longer take you to jquery.com" );
-		//event.preventDefault();
 
-		// and animate, fade out, fade in, add and remove classes
-		$(this).hide( 300 ).delay(500).toggleClass("error").show(300);
+	// $button.on("mouseover", function() {
+	// 	$(this).addClass("ok");
+	// });
+	// $button.on("mouseout", function() {
+	// 	$(this).removeClass("ok");
+	// });
+	// button click
+	// var pageClicked = function() {
+	// 	console.log("page clicked");
+	// }
+
+	// $(".container").click(function() {
+	// 	pageClicked();
+	// });
+
+	$button.click(function(event) {
+		event.stopPropagation();
+
+		if ( !looping ) {
+			animateButton(this);
+		}
+		else {
+			looping = false;
+			$(this).stop(true, true);
+		}
+	});
+	// project click
+	$project.click(function(event) {
+		
+		toggleDiv(this);
+
 	});
 
-
 	// jQuery makes animations easy
+	var animateButton = function(el) {
+		looping = true;
 
+		$(el).animate({
+		  	marginLeft: "10px",
+		    opacity: 0.25
+		}, 500, function() {
+		    // Animation complete.
+		  	$(el).animate({
+		  		marginLeft: "0",
+		  		opacity: 1
+		  	}, 500, animateButton(el));
+		});
+
+	}
+
+	var toggleDiv = function(el) {
+		
+		var height = $(el).css("height");
+
+		if ( height == "30px" ) {
+			$(el).animate({
+			  	height: "400px"
+			}, 500);
+		}
+		else {
+			$(el).animate({
+			  	height: "30px"
+			}, 500);
+		}
+
+	}
 
 	// jQuery also has built in methods for making AJAX calls
-	
-	
-});
+
+
+} );
