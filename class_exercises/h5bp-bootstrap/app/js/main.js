@@ -12,22 +12,22 @@ $( document ).ready( function() {
 
 	// set up button events
 
-	// $button.on("mouseover", function() {
-	// 	$(this).addClass("ok");
-	// });
-	// $button.on("mouseout", function() {
-	// 	$(this).removeClass("ok");
-	// });
+	$button.on("mouseover", function() {
+		$(this).addClass("ok");
+	});
+	$button.on("mouseout", function() {
+		$(this).removeClass("ok");
+	});
 	// button click
-	// var pageClicked = function() {
-	// 	console.log("page clicked");
-	// }
+	var pageClicked = function() {
+		console.log("page clicked");
+	}
 
 	// $(".container").click(function() {
 	// 	pageClicked();
 	// });
 
-	$button.click(function(event) {
+	$button.on("click", function(event) {
 		event.stopPropagation();
 
 		if ( !looping ) {
