@@ -10,23 +10,8 @@ $( document ).ready( function() {
 				//$("p")
 				//$("#myID")
 
+
 	// set up button events
-
-	$button.on("mouseover", function() {
-		$(this).addClass("ok");
-	});
-	$button.on("mouseout", function() {
-		$(this).removeClass("ok");
-	});
-	// button click
-	var pageClicked = function() {
-		console.log("page clicked");
-	}
-
-	// $(".container").click(function() {
-	// 	pageClicked();
-	// });
-
 	$button.on("click", function(event) {
 		event.stopPropagation();
 
@@ -38,6 +23,7 @@ $( document ).ready( function() {
 			$(this).stop(true, true);
 		}
 	});
+
 	// project click
 	$project.click(function(event) {
 		
@@ -79,7 +65,48 @@ $( document ).ready( function() {
 
 	}
 
-	// jQuery also has built in methods for making AJAX calls
+	// Boostrap gives you some things like slideshow/carousels
+
+	// CAROUSEL LOGIC
+	$('#theCarousel').carousel({
+	  interval: false
+	})
+
+	$('.multi-item-carousel .item').each(function(){
+	  var next = $(this).next();
+	  if (!next.length) {
+	    next = $(this).siblings(':first');
+	  }
+	  next.children(':first-child').clone().appendTo($(this));
+	  
+	  if (next.next().length>0) {
+	    next.next().children(':first-child').clone().appendTo($(this));
+	  }
+	  else {
+	  	$(this).siblings(':first').children(':first-child').clone().appendTo($(this));
+	  }
+	});
+
+	// jQuery also makes it easy to make AJAX (asynchronous json and xml) calls
+	// var $data;
+
+	// $.get( "../data/samples.json", function( data ) {
+	//   $data = data;
+
+		// for (var i=0; i<$data.length; i++) {
+		// 	$data[i]
+		// }
+		
+	//   initBoard();
+	// });
+	// function initBoard() {
+	// 	$button.on("mouseover", function() {
+	// 		$(this).addClass("ok");
+	// 	});
+	// 	$button.on("mouseout", function() {
+	// 		$(this).removeClass("ok");
+	// 	});
+	// }
 
 
 } );

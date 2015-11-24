@@ -1,0 +1,42 @@
+[
+	{
+		"path": "../snd/bass_01.ogg",
+		"key": "bass_01",
+		"looping": "true"
+	},
+	{
+		"path": "../snd/bass_02.ogg",
+		"key": "bass_02",
+		"looping": "true"
+	},
+	{
+		"path": "../snd/bass_03.ogg",
+		"key": "bass_03",
+		"looping": "true"
+	},
+	{
+		"path": "../snd/beat_01.ogg",
+		"key": "beat_01",
+		"looping": "true"
+	},
+	{
+		"path": "../snd/synth_01.ogg",
+		"key": "synth_01",
+		"looping": "true"
+	},
+	{
+		"path": "../snd/synth_02.ogg",
+		"key": "synth_02",
+		"looping": "true"
+	},
+	{
+		"path": "../snd/synth_03.ogg",
+		"key": "synth_03",
+		"looping": "true"
+	},
+	{
+		"path": "../snd/synth_04.ogg",
+		"key": "synth_04",
+		"looping": "true"
+	}
+]
