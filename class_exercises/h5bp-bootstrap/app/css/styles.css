@@ -126,6 +126,33 @@ nav li {
   height: 30px;
   margin-left: 10px; }
 
+.flex-nav {
+  display: -webkit-inline-flex;
+  /* Safari */
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-flex-direction: column-reverse;
+  /* Safari */
+  -ms-flex-direction: column-reverse;
+      flex-direction: column-reverse;
+  -webkit-justify-content: space-around;
+  /* Safari */
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  padding: 10px 30px; }
+
+.flex-item, .nav-title {
+  color: #fff;
+  padding: 5px;
+  background: #333;
+  margin: 2px;
+  cursor: pointer; }
+
+.nav-title {
+  position: absolute;
+  bottom: -20px;
+  left: 40px; }
+
 .l-constrained {
   max-width: 650px;
   margin: 0 auto; }
@@ -209,6 +236,9 @@ nav li {
     -webkit-perspective: none;
     -webkit-transform: none !important;
     transform: none !important; } }
+
+.hidden {
+  display: none; }
 
 /* 
  * State Rules

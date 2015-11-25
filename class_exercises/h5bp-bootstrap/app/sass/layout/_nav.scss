@@ -13,3 +13,35 @@ nav li {
     height: 30px;
     margin-left: 10px;
 }
+
+.vertical-nav {
+	// height: 10px;
+	// overflow: hidden;
+}
+
+.flex-nav {
+	display: -webkit-inline-flex; /* Safari */
+	display: inline-flex;
+
+	-webkit-flex-direction: column-reverse; /* Safari */
+  	flex-direction:         column-reverse;
+
+  	-webkit-justify-content: space-around; /* Safari */
+  	justify-content:         space-around;
+
+  	padding: 10px 30px;
+}
+
+.flex-item, .nav-title {
+	color: #fff;
+	padding: 5px;
+	background: #333;
+	margin: 2px;
+	cursor: pointer;
+}
+
+.nav-title {
+	position: absolute;
+    bottom: -20px;
+    left: 40px;
+}

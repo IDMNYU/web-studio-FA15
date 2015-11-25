@@ -87,6 +87,26 @@ $( document ).ready( function() {
 	  }
 	});
 
+	// LIGHTBOX LOGIC
+	$(".fancybox").fancybox({
+		openEffect	: 'none',
+		closeEffect	: 'none'
+	});
+
+	// FLEXBOX NAV LOGIC
+	$(".vertical-nav").on("mouseover", function() {
+		$(this).find('#works').animate({
+			bottom: '40px'
+		}, 500);
+	// 	$(this).toggle(function(){
+	// 	    $(this).animate({height:140},200);
+	// 	},function(){
+	// 	    $(this).animate({height:10},200);
+	// 	});
+	});
+	
+	
+	
 	// jQuery also makes it easy to make AJAX (asynchronous json and xml) calls
 	// var $data;
 
