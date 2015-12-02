@@ -1,0 +1,35 @@
+<footer>
+      <div>
+        <ul>
+          <li>{{ site.title }}</li>
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        </ul>
+      </div>
+      <div>
+        <ul>
+          {% if site.github_username %}
+          <li>
+            <a href="https://github.com/{{ site.github_username }}">
+              <span class="username">{{ site.github_username }}</span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            <a href="https://twitter.com/{{ site.twitter_username }}">
+              <span class="username">{{ site.twitter_username }}</span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.instagram_username %}
+          <li>
+            <a href="https://instagram.com/{{ site.instagram_username }}">
+              <span class="username">{{ site.instagram_username }}</span>
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+</footer>
